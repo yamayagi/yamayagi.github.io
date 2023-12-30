@@ -1,6 +1,6 @@
 ---
-title = 'Mein Erster Beitrag'
-date = 2023-12-29T21:34:23+01:00
+title: 'Mein Erster Beitrag'
+date: 2023-12-27T21:34:23+01:00
 ---
 
 ## Äpfel in Haiming
