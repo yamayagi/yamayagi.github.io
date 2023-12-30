@@ -2,7 +2,6 @@
 layout: page
 title: 私について
 description: 私について
-header_img: false
 ---
 
 # について 
