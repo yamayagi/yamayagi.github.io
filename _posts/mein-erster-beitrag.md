@@ -1,8 +1,7 @@
-+++
+---
 title = 'Mein Erster Beitrag'
 date = 2023-12-29T21:34:23+01:00
-draft = false
-+++
+---
 
 ## Äpfel in Haiming
 
