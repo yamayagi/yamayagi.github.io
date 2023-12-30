@@ -1,1 +1,53 @@
-theme: jekyll-theme-cayman
+
+# Site settings
+title: 山歩きガイド さなえ
+description: A clean and refined Jekyll theme.
+header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103027-50c2a87b-me.jpg
+baseurl: https://yama.schickl.de/
+owner: &copy;中村さなえ
+published_at: 2023
+
+# Sidebar settings
+sidebar: true
+sidebar_avatar: /assets/img/avatar.jpeg
+sidebar_about_description: 
+
+# SNS settings
+RSS:                true
+email:              sfrcw@schickl.de
+github_username:    yamayagi
+facebook_username:  sanae.nakamura.7921
+
+# Uncomment the line below if you use this theme as a GitHub Page's remote theme.
+remote_theme: lynn9388/huxpro
+
+# Google Analytics settings (https://analytics.google.com/)
+ga_measurement_id:
+
+# Comments settings (https://utteranc.es/)
+# You must use your own repository, otherwise it won't work.
+comments_repository: yamayagi/comments
+
+# Build settings
+paginate: 10
+timezone: Europe/Vienna
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+defaults:
+  - scope:
+      path: _posts
+    values:
+      layout: post
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - rouge
