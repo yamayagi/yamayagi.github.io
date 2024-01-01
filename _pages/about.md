@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pages
 title: 私について
 description: 私について
 ---
