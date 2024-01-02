@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default
 title: 私について
 description: 私について
 ---
