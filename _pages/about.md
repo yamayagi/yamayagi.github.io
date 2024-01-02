@@ -2,7 +2,7 @@
 layout: page
 title: 私について
 description: 私について
-header_img: DSC03777 : http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-21769295-me.jpg
+header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-21769295-me.jpg
 ---
 
 # 私について 
