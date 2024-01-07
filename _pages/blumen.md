@@ -39,6 +39,11 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 白
 
+グレッチヤー ハーネンフース (Gletscher-Hahnenfuß)
+
+ノルドケッテ　2022年6月14日 (Nordkette 14.Juni.2022)
+
+![gletscher-hahnenfuß](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106201236-263df695-me.jpg)
 
 # 緑
 
