@@ -7,36 +7,13 @@ layout: default
 <!-- Main Content -->
 <div class="container">
     <div class="row">
-        {%- if site.sidebar == false -%}
-        <!-- Postlist Container -->
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
-            {%- if page.multilingual -%}
-                {%- include language-selector.html -%}
-            {%- endif -%}
 
-            {{ content }}
-        </div>
-        <!-- Sidebar Container -->
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 sidebar-container">
-            {%- include featured-tags.html -%}
-        </div>
-        {%- else -%}
         <!-- Postlist Container -->
         <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 post-container">
-            {%- if page.multilingual -%}
-                {%- include language-selector.html -%}
-            {%- endif -%}
 
             {{ content }}
         </div>
-        <!-- Sidebar Container -->
-        <div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12 sidebar-container">
-            {%- include featured-tags.html -%}
-            {%- include short-about.html -%}
-        </div>
-        {%- endif -%}
-
-        {%- unless page.no_catalog -%}
+    
             <!-- Side Catalog Container -->
             <div class="col-lg-2 col-lg-offset-0 visible-lg-block sidebar-container catalog-container">
                 <div class="side-catalog">
@@ -47,12 +24,6 @@ layout: default
                     <ul class="catalog-body"></ul>
                 </div>
             </div>
-            {%- endunless -%}
-
-          <!-- Sidebar Container -->
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 sidebar-container">
-                {%- include featured-tags.html bottom=true -%}
-            </div>        
     </div>
 </div>
 
