@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pageb
 title: 私について
 description: über mich
 header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-21769295-me.jpg
