@@ -35,6 +35,6 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-217
 
 耳の長いチロルの羊に囲まれて、寝転がって、空を眺めてみませんか？
 
-![schafnordkette]{http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200058-356066eb-me.jpg}
+![schafnordkette](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200058-356066eb-me.jpg)
 
 
