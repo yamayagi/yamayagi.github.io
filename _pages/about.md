@@ -26,3 +26,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-217
 チロルをご案内できるのを楽しみにしています。
 
 ![mutter und kindgemse](http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102125006-1479f6a2-me.jpg)
+
+# お問い合わせは
+
+お問い合わせは、メールでお願いいたします。（ホームの中の手紙のマークをクリックしてください。）
+
+写真は、私の大好きな場所です。
+
+耳の長いチロルの羊に囲まれて、寝転がって、空を眺めてみませんか？
+
+![schafnordkette]{http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200058-356066eb-me.jpg}
+
+
