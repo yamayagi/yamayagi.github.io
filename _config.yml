@@ -14,9 +14,9 @@ sidebar_avatar:
 sidebar_about_description: 
 
 # SNS settings
-RSS:                true
+RSS:                false
 email:              sfrcw@schickl.de
-github_username:    yamayagi
+github_username:    false
 facebook_username:  sanae.nakamura.7921
 
 # Uncomment the line below if you use this theme as a GitHub Page's remote theme.
