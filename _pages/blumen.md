@@ -49,6 +49,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ![weisse-zahnwurz](http://piwigo.schickl.de/i.php?/upload/2024/01/14/20240114125515-06898a4d-me.jpg)
 
+ブラットローザー　シュタインブレッヒ (Blattloser Steinbrech)
+
+ノルドケッテ　2022年6月14日 (Nordkette 14.Juni.2022)
+
+![blattloser-steinbrech](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200306-e11ceecc-me.jpg)
+
 
 # 白
 
