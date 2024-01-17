@@ -64,6 +64,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ![gletscher-hahnenfuß](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106201236-263df695-me.jpg)
 
+ クリーヘンデス　ギプスクラウト　(Kriechendes Gipskraut)
+
+ノルドケッテ　2022年6月19日 (Nordkette 19.Juni.2022)
+
+![kriechendes-gibskraut](http://piwigo.schickl.de/i.php?/upload/2024/01/17/20240117121659-819b10f0-me.jpg)
+
 # 緑
 
 ヴォルフスミルヒ (Wolfsmilch)
