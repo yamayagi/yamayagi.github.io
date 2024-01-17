@@ -72,6 +72,16 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 緑
 
+アルペン-フラウエンマンテル (Alpen-Frauenmantel)
+
+ドイツ語の名前を直訳すると・・・。「アルペン-女の人のマント」
+小さな手のひらのような緑の葉っぱが、フラウエンマンテルだよ！
+
+ノルドケッテ　2022年6月14日 (Nordkette 14.Juni.2022)
+
+![alpen-frauenmantel](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200613-2307a34f-me.jpg)
+
+
 ヴォルフスミルヒ (Wolfsmilch)
 
 ドイツ語の名前を直訳すると・・・。「狼のミルク」だ？！
