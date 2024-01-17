@@ -19,6 +19,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ![mehlprimel](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106192845-a3e462ad-me.jpg)
 
+　シュテンゲルローゼス　ライムクラウト (Stengelloses Leimkraut)
+
+ノルドケッテ　2022年6月14日 (Nordkette 14.Juni.2022)
+
+![stengelloses-leimkraut](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106195525-624800f2-me.jpg)
+
 # 青
 
 エンチアン (Enzian)
