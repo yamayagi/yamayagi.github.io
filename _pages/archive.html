@@ -11,6 +11,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            {%- if false -%}
             <!-- Tags (as filter) -->
             <div id='tag_cloud' class="tags tags-sup js-tags">
                 <a class="tag-button--all" data-encode="">
@@ -31,6 +32,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
                 {%- endcapture -%}
                 {{ tags | split:'__SEPERATOR__' | sort }}
             </div>
+            {%- endif -%}
 
             <!-- Article List -->
             <div class="mini-post-list js-result">
