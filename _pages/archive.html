@@ -33,7 +33,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
             </div>
 
             <!-- Article List -->
-            <div class="mini-post-list js-result d-none">
+            <div class="mini-post-list js-result">
                 {%- assign _sorted_list = site.posts | sort: 'date' | reverse -%}
 
                 {%- for _article in _sorted_list -%}
