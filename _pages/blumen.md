@@ -111,6 +111,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ![kriechendes-gibskraut](http://piwigo.schickl.de/i.php?/upload/2024/01/17/20240117121659-819b10f0-me.jpg)
 
+アルペン-キューヘンシェレ/アルペン-アネモネ　(Alpen-Küchenschelle/Alpen-Anemone)
+
+2023年6月1日 (Obernberg 1.Juni.2023)
+
+![alpenanemone](http://piwigo.schickl.de/i.php?/upload/2024/01/17/20240117120742-3aeb763d-me.jpg)
+
 # 緑
 
 アルペン-フラウエンマンテル (Alpen-Frauenmantel)
