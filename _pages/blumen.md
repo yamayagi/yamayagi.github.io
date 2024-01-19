@@ -61,9 +61,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ドイツ語の名前を直訳すると・・・。　「悪魔の爪」。
 
-カルヴェンデル　202年6月日 (Karwendel .Juni.20)
+カルヴェンデル　2020年6月6日 (Karwendel 6.Juni.2020)
 
 ![teufelskralle](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118180529-c2b94293-me.jpg)
+
+ヴァルト-ヴァイルヒェン (Wald-Veilchen)
+
+インスブルック　202年5月7日 (Innsbruck 7.Mai.20)
+
+![waldveilchen](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118093415-5b922372-me.jpg)
 
 # 黄
 
