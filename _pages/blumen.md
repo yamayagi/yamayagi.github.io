@@ -17,6 +17,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+アルペン　ローゼ (Alpen Rose)
+
+カルヴェンデル　2020年6月6日 (Karwendel 6.Juni.2020)
+
+![alpenrose](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118180350-2757d7c9-me.jpg)
+
 ロストローテル　アルムラウシュ (Rostroter Almrausch)
 
 カルヴェンデル　2023年6月17日 (Karwendel 17.Juni.2023)
