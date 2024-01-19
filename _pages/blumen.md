@@ -57,6 +57,14 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ![vergißmeinnicht](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200824-c9aa4fba-me.jpg)
 
+トイフェルスクラーレ (Teufelskralle)
+
+ドイツ語の名前を直訳すると・・・。　「悪魔の爪」。
+
+カルヴェンデル　202年6月日 (Karwendel .Juni.20)
+
+![teufelskralle](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118180529-c2b94293-me.jpg)
+
 # 黄
 
 ベルク ハーネンフース (Berg-Hahnenfuß)
