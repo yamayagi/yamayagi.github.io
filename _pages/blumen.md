@@ -67,9 +67,16 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ヴァルト-ヴァイルヒェン (Wald-Veilchen)
 
-インスブルック　202年5月7日 (Innsbruck 7.Mai.20)
+インスブルック　2023年5月7日 (Innsbruck 7.Mai.2023)
 
 ![waldveilchen](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118093415-5b922372-me.jpg)
+
+ドイチェア　エンチアン (Deutscher Enzian)
+
+ミッテンヴァルト　2023年9月8日 (Mittenwald 8.September.2023)
+
+![deutscherenzian](https://piwigo.schickl.de/i.php?/upload/2024/01/19/20240119125458-e7b74a2b-me.jpg)
+
 
 # 黄
 
