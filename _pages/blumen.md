@@ -137,6 +137,14 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 緑
 
+アインベエレ (Einbeere)
+
+ドイツ語を直訳すると・・・。　「一つの実」　　その通りだ！
+
+ミッテンヴァルト　2023年７月３１日 (Mittenwald 31.Juli.2023)
+
+![einbeere](https://piwigo.schickl.de/i.php?/upload/2024/01/19/20240119125920-feb18243-me.jpg)
+
 アルペン-フラウエンマンテル (Alpen-Frauenmantel)
 
 ドイツ語の名前を直訳すると・・・。「アルペン-女の人のマント」
