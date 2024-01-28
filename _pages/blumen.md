@@ -141,7 +141,7 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ドイツ語を直訳すると・・・。　「一つの実」　　その通りだ！
 
-ミッテンヴァルト　2023年７月３１日 (Mittenwald 31.Juli.2023)
+ミッテンヴァルト　2023年７月31日 (Mittenwald 31.Juli.2023)
 
 ![einbeere](https://piwigo.schickl.de/i.php?/upload/2024/01/19/20240119125920-feb18243-me.jpg)
 
