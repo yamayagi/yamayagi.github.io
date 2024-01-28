@@ -73,10 +73,21 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ドイチェア　エンチアン (Deutscher Enzian)
 
+秋に咲くエンチアン。
+
 ミッテンヴァルト　2023年9月8日 (Mittenwald 8.September.2023)
 
 ![deutscherenzian](https://piwigo.schickl.de/i.php?/upload/2024/01/19/20240119125458-e7b74a2b-me.jpg)
 
+フリューリングス　エンチアン (Frühlings Enzian)
+
+ドイツ語を直訳すると・・・。「春のエンチアン」
+
+オーストリアの山の花といえば、エンチアン！　春から秋にかけて、いろんなエンチアンが咲くんだ！！
+
+ゼーフェルト　2023年5月29日 (Seefeld 29.Mai.2023)
+
+![fruehlingsenzian](https://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118184516-064cad4a-me.jpg)
 
 # 黄
 
