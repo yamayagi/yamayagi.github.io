@@ -10,13 +10,13 @@ tags: [innsbruck]
 
 インスブルックの山の麓を歩いてみると・・・。
 
-！[nekoyamagi](https://piwigo.schickl.de/i.php?/upload/2024/03/01/20240301175824-6f10cf89-me.jpg)
+![nekoyamagi](https://piwigo.schickl.de/i.php?/upload/2024/03/01/20240301175824-6f10cf89-me.jpg)
 
 「ねこやなぎ」ってこんなふうに黄色くなるんだぁ・・・？！
 
 曇り空の日には、ひかえめに・・・。
 
-！[20240228blumen](https://piwigo.schickl.de/i.php?/upload/2024/03/01/20240301175944-b180fed8-me.jpg)
+![20240228blumen](https://piwigo.schickl.de/i.php?/upload/2024/03/01/20240301175944-b180fed8-me.jpg)
 
 
 
