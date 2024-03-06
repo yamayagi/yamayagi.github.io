@@ -45,7 +45,7 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![stengelloses-leimkraut](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106195525-624800f2-me.jpg)
 
 
-#　チロルの薬草（ハーブ）
+# チロルの薬草（ハーブ）
 
 ルンゲンクラウト　　（Lungenkraut）
 
