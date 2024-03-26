@@ -150,9 +150,9 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
  (Wechselblättriges Milzkraut)
 
-　2024年3月日 (Reutte .März.2024)
+　2024年3月21日 (Reutte 21.März.2024)
 
-![]()
+![wechselblaettrigesmilzkraut]()
 
 プリメル (Primel)
 
