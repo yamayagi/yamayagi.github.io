@@ -148,11 +148,12 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 ![blattloser-steinbrech](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106200306-e11ceecc-me.jpg)
 
- (Wechselblättriges Milzkraut)
+ ヴェクセルブレットリゲス　ミルツクラウト (Wechselblättriges Milzkraut)
 
 　2024年3月21日 (Reutte 21.März.2024)
 
-![wechselblaettrigesmilzkraut]()
+![wechselblaettrigesmilzkraut](https://piwigo.schickl.de/i.php?/upload/2024/03/26/20240326115355-aecb50ff-me.jpg)
+
 
 プリメル (Primel)
 
