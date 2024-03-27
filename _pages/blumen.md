@@ -177,10 +177,9 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 フウフラチッヒ (Huflattich)
 
-インスブルック　2024年3月27日 (Innsbruck 27.März.2024)
+インスブルック　2024年2月21日 (Innsbruck 21.Februar.2024)
 
-![huflattich](https://piwigo.schickl.de/i.php?/upload/2024/03/27/20240327182136-e41a01b1-me.jpg)
-
+![huflattich](DSC08504 : https://piwigo.schickl.de/i.php?/upload/2024/02/28/20240228120503-ffb731d8-me.jpg)
 
 ベルク ハーネンフース (Berg-Hahnenfuß)
 
