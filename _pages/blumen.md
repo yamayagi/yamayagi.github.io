@@ -181,6 +181,7 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 ![huflattich](https://piwigo.schickl.de/i.php?/upload/2024/02/28/20240228120503-ffb731d8-me.jpg)
 
+
 ベルク ハーネンフース (Berg-Hahnenfuß)
 
 ノルドケッテ　2022年6月14日 (Nordkette 14.Juni.2022)
