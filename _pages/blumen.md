@@ -179,7 +179,7 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 インスブルック　2024年2月21日 (Innsbruck 21.Februar.2024)
 
-![huflattich](DSC08504 : https://piwigo.schickl.de/i.php?/upload/2024/02/28/20240228120503-ffb731d8-me.jpg)
+![huflattich](https://piwigo.schickl.de/i.php?/upload/2024/02/28/20240228120503-ffb731d8-me.jpg)
 
 ベルク ハーネンフース (Berg-Hahnenfuß)
 
