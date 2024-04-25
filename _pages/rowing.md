@@ -11,7 +11,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02
 
 2024年夏の企画は・・・？！
 
-元気なさなえといく　　「Wanderrudern, Eusenbahn, Bergwandern und Freizeit」　ツアー！！!
+元気なさなえといく　　「Wanderrudern, Eisenbahn, Bergwandern und Freizeit」　ツアー！！!
 
 ５月〜９月の毎週火曜日から金曜日の４日間の特別企画です。
 
@@ -21,7 +21,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02
 
 木曜日 : Bergwandern （オーストリア　チロル州）
 
-金曜日　　:　　自由な時間　（山登り、山歩き、散歩、ゴルフ、マウンテンバイクなどなど）
+金曜日 : 自由な時間　（山登り、山歩き、散歩、ゴルフ、マウンテンバイクなどなど）
 
 # Wanderrudern
 
