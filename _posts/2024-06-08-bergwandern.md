@@ -16,6 +16,8 @@ tags: [blumen]
 
 アルペン・トロッデルブルーメ　(Alpen-Troddelblume)と緑の葉っぱは、フラウエンマンテル(Frauenmantel)。
 
+フラウエンマンテル(Frauenmantel)は薬草です。効用は、生理痛、女性の更年期障害、婦人病（？）など・・・。
+
 ![20240660-alpendore](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607073541-06588192-me.jpg)
 
 花の写真を撮っていると・・・。
