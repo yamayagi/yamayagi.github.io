@@ -1,5 +1,5 @@
 ---
-title:   　山に登ろう！
+title: 山に登ろう！
 subtitle: チロルの花に誘われて・・・？！
 tags: [blumen]
 ---
