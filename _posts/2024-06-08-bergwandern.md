@@ -50,7 +50,6 @@ tags: [blumen]
 
 歩くの大好き、どんどん行こう！
 
-![20240606-seefelderspitze](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607075733-e0d02163-me.jpg)
 
 # お問い合わせは
 
@@ -62,6 +61,6 @@ tags: [blumen]
 
 お問い合わせは、メールにて・・・。（ホームの下の手紙マークをポチッとしてください。携帯電話の場合は、手紙のマークをタッチしてください。）
 
-
+![20240606-seefelderspitze](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607075733-e0d02163-me.jpg)
 
 
