@@ -34,9 +34,9 @@ tags: [blumen]
 
 そして踝までのハイカットの靴は、足首を保護してくれます。
 
-![2024-06-09](https://piwigo.schickl.de/i.php?/upload/2024/06/11/20240611094202-901652b6-me.jpg)
-
 靴は、体の一部。　大地と接する大切な部分です！
+
+![2024-06-09](https://piwigo.schickl.de/i.php?/upload/2024/06/11/20240611094202-901652b6-me.jpg)
 
 
 # アルペン-キューヒェンシィェレ (Alpen-Küchenschelle)
