@@ -39,7 +39,7 @@ tags: [blumen]
 ![2024-06-09](https://piwigo.schickl.de/i.php?/upload/2024/06/11/20240611094202-901652b6-me.jpg)
 
 
-# アルペン-キューヒェンシィェレ (Alpen-Küchenschelle)
+# Alpen-Küchenschelle
 
 チロルで、とっても愛されているアルペン-キューヒェンシィェレ (Alpen-Küchenschelle)を見つけたよ！　
 
