@@ -27,7 +27,7 @@ tags: [blumen]
 
 山歩きに欠かせないのが登山靴。
 
-！[2024-06-09-bergschuhe](https://piwigo.schickl.de/i.php?/upload/2024/06/10/20240610180514-46211f7b-me.jpg)
+![2024-06-09-bergschuhe](https://piwigo.schickl.de/i.php?/upload/2024/06/10/20240610180514-46211f7b-me.jpg)
 
 靴底の厚い、靴底がヴィブラム(vibram)ゴムのカットの深いもの。　靴底の王様（？）、安全に安心して歩くことができます。
 
@@ -46,7 +46,7 @@ tags: [blumen]
 
 歩くの大好き！　どんどん行こう！
 
-！[2024-06-09-stein](https://piwigo.schickl.de/i.php?/upload/2024/06/10/20240610172039-ca309e9b-me.jpg)
+![2024-06-09-stein](https://piwigo.schickl.de/i.php?/upload/2024/06/10/20240610172039-ca309e9b-me.jpg)
 
 黄色のアルペン-キューヒェンシィェレ (Gelbe-Alpen-Küchenschelle)も見つけた！
 
