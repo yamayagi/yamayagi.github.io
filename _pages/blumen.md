@@ -302,9 +302,10 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 アルペン-キューヘンシェレ/アルペン-アネモネ　(Alpen-Küchenschelle/Alpen-Anemone)
 
-2023年6月1日 (Obernberg 1.Juni.2023)
+トゥクサーアルペン　　2024年6月20日 (Tuxer Alpen 20.Juni.2024)
 
-![alpenanemone](http://piwigo.schickl.de/i.php?/upload/2024/01/17/20240117120742-3aeb763d-me.jpg)
+![alpenanemone](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627153158-4ff64c22-me.jpg)
+
 
 
 # 緑
