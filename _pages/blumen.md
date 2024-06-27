@@ -218,6 +218,12 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![wundklee](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627142011-ab8010d5-me.jpg)
 
 
+ホルンクレー (Hornklee)
+
+ゼーフェルト 2024年6月6日 (Seefeld 6.Juni.2024)
+
+![hornklee](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607074905-d89cc569-me.jpg)
+
 
 フウフラチッヒ (Huflattich)
 
