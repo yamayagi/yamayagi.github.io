@@ -225,11 +225,18 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![wechselblaettrigesmilzkraut](https://piwigo.schickl.de/i.php?/upload/2024/03/26/20240326115355-aecb50ff-me.jpg)
 
 
-プリメル (Primel)
+アルペン-プリメル (Aipen-Primel)
+
+ゼーフェルト　2024年6月22日 (Seefeld 22.Juni.2024)
+
+![alpen-primel](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143408-d4b3ce7b-me.jpg)
+
+
+ヴィーゼン-プリメル (Wiesen-Primel)
 
 ゼーフェルト　2023年5月29日 (Seefeld 29.Mai.2023)
 
-![primel](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118184130-a6e81162-me.jpg)
+![wiesen-primel](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118184130-a6e81162-me.jpg)
 
 
 # 白
