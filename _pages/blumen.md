@@ -192,10 +192,16 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 ゲルべ　アルペン-キューヘンシェレ (Gelbe Aipen-Küchenschelle)
 
-　トゥクサ-アルペン 2024年6月9日 (Tuxer Aipen 9.Juni.2024)
+トゥクサ-アルペン 2024年6月9日 (Tuxer Aipen 9.Juni.2024)
 
 ![gelbe-aipen-küchenschelle](https://piwigo.schickl.de/i.php?/upload/2024/06/10/20240610172814-04a8543c-me.jpg)
 
+
+プンクティエルター　エンチアン (Punktierter Enzian)
+
+トゥクサ-アルペン 2024年6月20日 (Tuxer Aipen 20.Juni.2024)
+
+![punktierter-enzian](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143931-fac74bc7-me.jpg）
 
 
 フウフラチッヒ (Huflattich)
