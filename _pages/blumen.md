@@ -201,7 +201,7 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 トゥクサ-アルペン 2024年6月20日 (Tuxer Aipen 20.Juni.2024)
 
-![punktierter-enzian](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143931-fac74bc7-me.jpg）
+![punktierter-enzian](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143931-fac74bc7-me.jpg)
 
 
 フウフラチッヒ (Huflattich)
