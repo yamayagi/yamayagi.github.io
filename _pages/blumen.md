@@ -204,6 +204,14 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![punktierter-enzian](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143931-fac74bc7-me.jpg)
 
 
+ヴントクレー (Wundklee)
+
+ゼーフェルト 2024年6月22日 (Seefeld 22.Juni.2024)
+
+![wundklee](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627142011-ab8010d5-me.jpg)
+
+
+
 フウフラチッヒ (Huflattich)
 
 インスブルック　2024年2月21日 (Innsbruck 21.Februar.2024)
