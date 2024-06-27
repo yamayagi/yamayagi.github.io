@@ -17,6 +17,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+シュタインシュミュッケル (Steinschmückel)
+
+カルヴェンデル（ゼーフェルト）　2024年6月22日 (Karwendel(Seefeld) 22.Juni.2024)
+
+![steinschmückel](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627140939-f004e27b-me.jpg)
+
+
 アルペン　ローゼ (Alpen Rose)
 
 カルヴェンデル　2020年6月6日 (Karwendel 6.Juni.2020)
