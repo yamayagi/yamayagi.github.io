@@ -245,9 +245,16 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 グレッチヤー ハーネンフース (Gletscher-Hahnenfuß)
 
+ノルドケッテ　2024年6月7日 (Nordkette 7.Juni.2024)
+
+![gletscher-hahnenfuß](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607070433-ec6f0126-me.jpg)
+
+
+ジルバーヴルツ (Silberwurz)
+
 ノルドケッテ　2022年6月14日 (Nordkette 14.Juni.2022)
 
-![gletscher-hahnenfuß](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106201236-263df695-me.jpg)
+![silberwurz](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106201236-263df695-me.jpg)
 
 
 クリーヘンデス　ギプスクラウト　(Kriechendes Gipskraut)
