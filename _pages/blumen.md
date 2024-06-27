@@ -59,6 +59,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![steinroeschen](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143105-50e3d926-me.jpg)
 
 
+ツヴェルク プリメル (Zwerg Primel)
+
+ノルドケッテ　2024年6月7日　　(Nordkette 07.Juni.2024)
+
+![Zwergprimel](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607071643-5fd453b6-me.jpg)
+
 
 # チロルの薬草（ハーブ）
 
