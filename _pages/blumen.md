@@ -45,6 +45,14 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![stengelloses-leimkraut](http://piwigo.schickl.de/i.php?/upload/2024/01/06/20240106195525-624800f2-me.jpg)
 
 
+シュタインロッシュェン (Steinröschen)
+
+ゼーフェルト　2024年6月22日 (Seefeld 22.Juni.2024)
+
+![steinroeschen](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627143105-50e3d926-me.jpg)
+
+
+
 # チロルの薬草（ハーブ）
 
 ルンゲンクラウト　　（Lungenkraut）
