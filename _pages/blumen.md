@@ -61,9 +61,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ツヴェルク プリメル (Zwerg Primel)
 
-ノルドケッテ　2024年6月7日　　(Nordkette 07.Juni.2024)
+ノルドケッテ　2024年6月4日　　(Nordkette 04.Juni.2024)
 
 ![Zwergprimel](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607071643-5fd453b6-me.jpg)
+
+アルペン-トロッデルブルーメ (Alpen-Troddelblume)
+
+ゼーフェルト　2024年6月6日　　(Seefeld 06.Juni.2024)
+
+![alpen-troddelblume](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607073313-c90e6619-me.jpg)
 
 
 # チロルの薬草（ハーブ）
