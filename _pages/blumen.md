@@ -17,6 +17,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+フェットヘンネン　シュタインブレッヒ (Fetthennen Steinbrech)
+
+カルヴェンデル（ゼーフェルト）　2024年7月20日 (Karwendel(Seefeld) 20.Juli.2024)
+
+![fetthennensteinbrech](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721150544-15a68389-me.jpg)
+
+
 ゴールド　ピッパウ (Gold Pippau)
 
 シュツゥーバイアルペン　2024年7月4日 (Stubaialpen 4.Juli.2024)
