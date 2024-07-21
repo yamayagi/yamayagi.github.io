@@ -93,6 +93,16 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![bergbalsrin](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721152546-0a84fc79-me.jpg)
 
 
+　ブュシェリゲス　レェウゼクラウト (Büscheliges Läusekraut)
+
+毒があるよ！　気をつけて！！
+
+シュツゥーバイアルペン　2024年7月4日 (Stubaialpen 4.Juli.2024)
+
+![buescheligeslaeusekraut](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721152858-3eeda0cc-me.jpg)
+
+
+
 # チロルの薬草（ハーブ）
 
 ザント　トゥミアン (Sand Thymian)
