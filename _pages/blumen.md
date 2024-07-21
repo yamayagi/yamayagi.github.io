@@ -88,6 +88,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # チロルの薬草（ハーブ）
 
+ザント　トゥミアン (Sand Thymian)
+
+トゥミアン、タイムと呼ぶことが多い。　ハーブの一種。
+
+カルヴェンデル（ゼーフェルト）　2024年7月20日 (Karwendel(Seefeld) 20.Juli.2024)
+
+![sandthymian](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721151103-a8f25954-me.jpg)
+
+
 ルンゲンクラウト　　（Lungenkraut）
 
 ドイツ語を日本語に直訳すると、「肺の草（薬草）」。　どうも　これは、肺に良い薬草に違いない！ 
