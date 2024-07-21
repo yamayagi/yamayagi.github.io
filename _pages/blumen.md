@@ -379,6 +379,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![alpenfettkraut](https://piwigo.schickl.de/i.php?/upload/2024/06/27/20240627141608-8abb8fa0-me.jpg)
 
 
+タウベンクロップフ　ライムクラウト (Taubenkropf Leimkraut)
+
+カルヴェンデル（ゼーフェルト）　2024年7月20日 (Karwendel(Seefeld) 20.Juli.2024)
+
+![taubenkropfleimkraut](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721150735-1871c71e-me.jpg)
+
+
 # 緑
 
 アインベエレ (Einbeere)
