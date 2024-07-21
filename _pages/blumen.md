@@ -79,6 +79,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![alpen-troddelblume](https://piwigo.schickl.de/i.php?/upload/2024/06/07/20240607073313-c90e6619-me.jpg)
 
 
+ベルク　バルトリアン　(Berg Baldrian)
+
+シュツゥーバイアルペン　2024年7月4日 (Stubaialpen 4.Juli.2024)
+
+![bergbalsrin](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721152546-0a84fc79-me.jpg)
+
+
 # チロルの薬草（ハーブ）
 
 ルンゲンクラウト　　（Lungenkraut）
