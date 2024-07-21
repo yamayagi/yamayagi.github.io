@@ -17,6 +17,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+ゴールド　ピッパウ (Gold Pippau)
+
+シュツゥーバイアルペン　2024年7月4日 (Stubaialpen 4.Juli.2024)
+
+![goldpippau](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721152131-e786ba4e-me.jpg)
+
+
 シュタインシュミュッケル (Steinschmückel)
 
 カルヴェンデル（ゼーフェルト）　2024年6月22日 (Karwendel(Seefeld) 22.Juni.2024)
