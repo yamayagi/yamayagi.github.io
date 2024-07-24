@@ -207,6 +207,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![fruehlingsenzian](https://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118184516-064cad4a-me.jpg)
 
 
+グローセ　ブラウエレ 　(Große Braunelle)
+
+カルヴェンデル 　2024年7月14日 (Karwendel 14.Juli.2024)
+
+![20240714grossebrauelle](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721153337-ce9c7fb4-me.jpg)
+
+
 # チロルの薬草（ハーブ）
 
 レバーブリューヒェン　（Leberblüchen)
