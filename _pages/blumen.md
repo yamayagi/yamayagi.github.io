@@ -102,6 +102,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![buescheligeslaeusekraut](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721152858-3eeda0cc-me.jpg)
 
 
+トゥルケンブンド 　(türkenbund)
+
+カルヴェンデル 　2024年7月14日 (Karwendel 14.Juli.2024)
+
+![20240714tuerkenbund](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724072345-36aed21c-me.jpg)
+
+
 
 # チロルの薬草（ハーブ）
 
