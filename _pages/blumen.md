@@ -328,11 +328,18 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 # 白
 
+トリヒタァリリィ 　(Trichterlilie)
+
+カルヴェンデル 　2024年7月14日 (Karwendel 14.Juli.2024)
+
+![20240714trichterlilie](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724071503-d575b57c-me.jpg)
+
+
 ズムプフ-ヘルツブラット 　(Sumpf-Herzblatt)
 
 カルヴェンデル 　2024年7月14日 (Karwendel 14.Juli.2024)
 
-![sumpfherzblatt](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724071016-4d4fcfd5-me.jpg)
+![20240714sumpfherzblatt](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724071016-4d4fcfd5-me.jpg)
 
 
 シュネーグロックヒィエン　(Schneeglöckchen)
