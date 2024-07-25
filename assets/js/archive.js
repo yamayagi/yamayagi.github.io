@@ -1,25 +1,16 @@
-/*
- * Credits: this script is shamelessly borrowed from
- * https://github.com/kitian616/jekyll-TeXt-theme/blob/master/_includes/scripts/archieve.js
-*/
 (function () {
     function queryString() {
-        // This function is anonymous, is executed immediately and
-        // the return value is assigned to QueryString!
-        var i = 0, queryObj = {}, pair;
+        var queryObj = {};
         var queryStr = window.location.search.substring(1);
         var queryArr = queryStr.split('&');
-        for (i = 0; i < queryArr.length; i++) {
-            pair = queryArr[i].split('=');
-            // If first entry with this name
+        for (var i = 0; i < queryArr.length; i++) {
+            var pair = queryArr[i].split('=');
             if (typeof queryObj[pair[0]] === 'undefined') {
-                queryObj[pair[0]] = pair[1];
-                // If second entry with this name
+                queryObj[pair[0]] = decodeURIComponent(pair[1]);
             } else if (typeof queryObj[pair[0]] === 'string') {
-                queryObj[pair[0]] = [queryObj[pair[0]], pair[1]];
-                // If third or later entry with this name
+                queryObj[pair[0]] = [queryObj[pair[0]], decodeURIComponent(pair[1])];
             } else {
-                queryObj[pair[0]].push(pair[1]);
+                queryObj[pair[0]].push(decodeURIComponent(pair[1]));
             }
         }
         return queryObj;
@@ -42,7 +33,7 @@
         var $tagShowAll = $tags.find('.tag-button--all');
         var $result = $('.js-result');
         var $sections = $result.find('section');
-        var sectionArticles = []
+        var sectionArticles = [];
         var $lastFocusButton = null;
         var sectionTopArticleIndex = [];
         var hasInit = false;
@@ -60,7 +51,7 @@
             sectionTopArticleIndex.push(index);
         }
 
-        function searchButtonsByTag(_tag/*raw tag*/) {
+        function searchButtonsByTag(_tag) {
             if (!_tag) {
                 return $tagShowAll;
             }
@@ -79,7 +70,7 @@
             }
         }
 
-        function tagSelect(tag/*raw tag*/, target) {
+        function tagSelect(tag, target) {
             var result = {}, $articles;
             var i, j, k, _tag;
 
@@ -94,7 +85,8 @@
                         for (k = 0; k < tags.length; k++) {
                             if (tags[k] === tag) {
                                 result[i] || (result[i] = {});
-                                result[i][j] = true; break;
+                                result[i][j] = true;
+                                break;
                             }
                         }
                     }
@@ -115,7 +107,6 @@
 
             hasInit || ($result.removeClass('d-none'), hasInit = true);
 
-
             if (target) {
                 buttonFocus(target);
                 _tag = target.attr('data-encode');
@@ -135,8 +126,9 @@
         init();
         tagSelect(_tag);
 
-        $tags.on('click', 'a', function () {   /* only change */
-            tagSelect($(this).data('encode'), $(this));
+        $tags.on('click', 'a', function (event) {
+            event.preventDefault(); // Hinzugefügt, um die Standardaktion zu verhindern
+            tagSelect($(this).attr('data-encode'), $(this));
         });
     });
 })();
