@@ -99,6 +99,7 @@
                 for (j = 0; j < sectionArticles[i].length; j++) {
                     if (result[i] && result[i][j]) {
                         sectionArticles[i].eq(j).removeClass('d-none');
+                        sectionArticles[i].eq(j).prepend("<span>Test ARCHIVE: </span>");
                     } else {
                         sectionArticles[i].eq(j).addClass('d-none');
                     }
