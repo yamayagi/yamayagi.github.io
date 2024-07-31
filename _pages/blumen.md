@@ -17,6 +17,14 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+カルトホォウザー-ネルケ (Karthäuser-Nelke)
+
+カルヴェンデル　2024年7月01日 (Karwendel 01.Juli.2024)
+
+![20240701](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724091606-53714c38-me.jpg)
+
+
+
 フェットヘンネン　シュタインブレッヒ (Fetthennen Steinbrech)
 
 カルヴェンデル（ゼーフェルト）　2024年7月20日 (Karwendel(Seefeld) 20.Juli.2024)
