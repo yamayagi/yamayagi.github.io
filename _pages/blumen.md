@@ -283,7 +283,7 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 # 黄
 
-リンドザウゲ (Rindsauge)
+リントザウゲ (Rindsauge)
 
 カルヴェンデル　2024年7月01日 (Karwendel 01.Juli.2024)
 
