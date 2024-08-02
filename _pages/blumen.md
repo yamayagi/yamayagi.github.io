@@ -441,6 +441,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![taubenkropfleimkraut](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721150735-1871c71e-me.jpg)
 
 
+シュヴァルベンヴゥルツ (Schwalbenwurz)
+
+カルヴェンデル　2024年8月02日 (Karwendel(Martinswand) 02.August.2024)
+
+![schwalbenwurz](https://piwigo.schickl.de/i.php?/upload/2024/08/02/20240802144259-413f3291-me.jpg)
+
+
 # 緑
 
 アインベエレ (Einbeere)
