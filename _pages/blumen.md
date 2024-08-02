@@ -362,6 +362,14 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 # 白
 
+アルペン-ベルクヘェンライン 　(Alpen-Berghähnlein)
+
+レッヒターラー　アルペン 　2024年7月5日 (Lechtaler Alpen 5.Juli.2024)
+
+![20240705alpenberghaehnlein](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724092852-203fc21d-me.jpg)
+
+
+
 トラウベン-シュタインブレッヒ 　(Trauben-Steinbrech)
 
 レッヒターラー　アルペン 　2024年7月5日 (Lechtaler Alpen 5.Juli.2024)
