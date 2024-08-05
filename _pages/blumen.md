@@ -235,7 +235,7 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 スカビオーゼ 　(Skabiose)
 
-ノルトケッテ 　2024年8月3日 (Nordkette 3.August.2024)
+ノルドケッテ 　2024年8月3日 (Nordkette 3.August.2024)
 
 ![20240803skabiose](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805165426-96a3fcc0-me.jpg)
 
@@ -382,7 +382,6 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240705alpenberghaehnlein](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724092852-203fc21d-me.jpg)
 
 
-
 トラウベン-シュタインブレッヒ 　(Trauben-Steinbrech)
 
 レッヒターラー　アルペン 　2024年7月5日 (Lechtaler Alpen 5.Juli.2024)
@@ -467,6 +466,14 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 カルヴェンデル　2024年8月02日 (Karwendel(Martinswand) 02.August.2024)
 
 ![schwalbenwurz](https://piwigo.schickl.de/i.php?/upload/2024/08/02/20240802144259-413f3291-me.jpg)
+
+
+ブラウグリューネァ　シュタインブレッヒ 　(20240803braugruenersteinbrech)
+
+ノルドケッテ 　2024年8月3日 (Nordkette 3.August.2024)
+
+![20240803blaugruenersteinbrech](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805171016-925f3ebd-me.jpg)
+
 
 
 # 緑
