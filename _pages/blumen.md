@@ -475,6 +475,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240803blaugruenersteinbrech](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805171016-925f3ebd-me.jpg)
 
 
+アルペン-ナベルミィレ 　(Alpen-Nabelmiere)
+
+ノルドケッテ 　2024年8月3日 (Nordkette 3.August.2024)
+
+![20240803alpennabelmire](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805165727-bd83891b-me.jpg)
+
+
 
 # 緑
 
