@@ -233,6 +233,12 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![fingerkuhschelle](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724094817-37ecd418-me.jpg)
 
 
+スカビオーゼ 　(Skabiose)
+
+ノルトケッテ 　2024年8月3日 (Nordkette 3.August.2024)
+
+![20240803skabiose](DSC03155 : https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805165426-96a3fcc0-me.jpg)
+
 
 # チロルの薬草（ハーブ）
 
