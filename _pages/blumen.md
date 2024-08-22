@@ -386,7 +386,15 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 ノルドケッテ　2024年8月7日 (Nordkette 7.August.2024)
 
-![wimpersandkraut](https://piwigo.schickl.de/i.php?/upload/2024/08/21/20240821145606-4846f8a9-me.jpg)
+![20240807wimpersandkraut](https://piwigo.schickl.de/i.php?/upload/2024/08/21/20240821145606-4846f8a9-me.jpg)
+
+
+クノェーリッヒィエン-クノェーテリッヒ (Knölichen-Knöterich)
+
+ノルドケッテ　2024年8月7日 (Nordkette 7.August.2024)
+
+![20240807knölichenknöterlich](https://piwigo.schickl.de/i.php?/upload/2024/08/21/20240821163742-8e12d42e-me.jpg)
+
 
 
 アルペン-ベルクヘェンライン 　(Alpen-Berghähnlein)
