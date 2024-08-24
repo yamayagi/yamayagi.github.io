@@ -240,6 +240,14 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240803skabiose](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805165426-96a3fcc0-me.jpg)
 
 
+ゲヴォーンリッヘ　ナッターコプフ (Gewöhnliche Natternkopf)
+
+カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
+
+![20240702gewoehnlichenatternkopf](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724091141-8d925084-me.jpg)
+
+
+
 # チロルの薬草（ハーブ）
 
 レバーブリューヒェン　（Leberblüchen)
