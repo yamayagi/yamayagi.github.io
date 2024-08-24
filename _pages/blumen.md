@@ -380,6 +380,16 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![wiesen-primel](http://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118184130-a6e81162-me.jpg)
 
 
+チィプレッセン-ヴォルフスミルヒ (Zypressen-Wolfsmilch)
+
+毒があるよ！　気をつけて・・・。
+
+カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
+
+![20240702zypressenwolfsmilch](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724090702-c1af3eae-me.jpg)
+
+
+
 # 白
 
 ヴィムパー　ザンドクラウト (Wimper-Sandkraut)
