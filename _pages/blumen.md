@@ -529,6 +529,14 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240803schweizerlabkraut](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805165931-1a3c4987-me.jpg)
 
 
+ベルク-クレー (Berg-Klee)
+
+カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
+
+![20240702bergklee](https://piwigo.schickl.de/i.php?/upload/2024/08/24/20240824135617-e1a5ef11-me.jpg)
+
+
+
 # 緑
 
 アインベエレ (Einbeere)
