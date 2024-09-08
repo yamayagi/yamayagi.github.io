@@ -17,6 +17,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+ヴィーゼン-フロッケンブルーメ (Wiesen-Flockenblume)
+
+ベッターシュタインゲビリゲ　　2024年9月07日 (Wettersteingebirge 02.Juli.2024)
+
+![20240702roteswaldvoeglein](https://piwigo.schickl.de/i.php?/upload/2024/08/24/20240824141155-b6ae855c-me.jpg)
+
+
 ローテス　ヴァルトフォゥクライン (Rotes Waldvöglein)
 
 カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
