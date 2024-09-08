@@ -17,6 +17,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+アルペン-ツァイトローゼ (Alpen-Zeitlose)
+
+ベッターシュタインゲビリゲ　　2024年9月07日 (Wettersteingebirge 07.September.2024)
+
+毒があるよ！　気をつけて・・・。
+
+![20240907alpenzeitlose](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908144237-46c16602-me.jpg)
+
+
 ヴィーゼン-フロッケンブルーメ (Wiesen-Flockenblume)
 
 ベッターシュタインゲビリゲ　　2024年9月07日 (Wettersteingebirge 07.September.2024)
