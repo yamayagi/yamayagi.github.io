@@ -579,6 +579,11 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 ![20240702bergklee](https://piwigo.schickl.de/i.php?/upload/2024/08/24/20240824135617-e1a5ef11-me.jpg)
 
+ジルバーディステル (Silberdistel)
+
+オェッツタール　アルペン　2024年8月31日 (Ötztal Alpen 31.August.2024)
+
+![20240831silberdistel](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908143800-4340b6d2-me.jpg)
 
 
 # 緑
