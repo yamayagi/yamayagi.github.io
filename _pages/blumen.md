@@ -277,6 +277,12 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240702gewoehnlichenatternkopf](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724091141-8d925084-me.jpg)
 
 
+シュヴァルベヴルツ-エンチアン (Schwalbenwurz-Enzian)
+
+オェッツタール　アルペン　2024年8月31日 (Ötztal Alpen 31.August.2024)
+
+![20240831schwalbewurzenzian](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908143953-b84133d6-me.jpg)
+
 
 # チロルの薬草（ハーブ）
 
