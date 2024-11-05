@@ -9,7 +9,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
     var queryArr = queryStr.split('&');
     queryArr.forEach(function(pair) {
       var [key, value] = pair.split('=');
-      queryObj[key] = value;
+      queryObj[key] = decodeURIComponent(value);  // Decode URL-encoded values
     });
     return queryObj;
   }
@@ -64,10 +64,15 @@ https://github.com/kitian616/jekyll-TeXt-theme
     }
 
     function tagSelect(tag, target) {
+      console.log("Selected Tag:", tag);  // Debugging output
       var result = {};
+
       sectionArticles.forEach((articles, i) => {
         articles.each(function(j) {
           var tags = $(this).data('tags').split(',');
+          console.log("Post Tags:", tags);  // Debugging output
+
+          // Check if post has selected tag
           if (!tag || tags.includes(tag)) {
             result[i] = result[i] || {};
             result[i][j] = true;
@@ -75,6 +80,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
         });
       });
 
+      // Toggle visibility of sections and articles based on the result
       $sections.each(function(i, section) {
         if (result[i]) {
           $(section).removeClass('d-none');
@@ -86,8 +92,10 @@ https://github.com/kitian616/jekyll-TeXt-theme
         }
       });
 
+      // Ensure initial view is not hidden
       hasInit || ($result.removeClass('d-none'), hasInit = true);
 
+      // Update the URL based on tag selection
       if (target) {
         buttonFocus(target);
         setUrlQuery(tag ? '?tag=' + tag : '');
@@ -96,7 +104,8 @@ https://github.com/kitian616/jekyll-TeXt-theme
       }
     }
 
-    var query = queryString(), _tag = query.tag;
+    var query = queryString();
+    var _tag = query.tag;
 
     init();
     tagSelect(_tag);
@@ -106,3 +115,4 @@ https://github.com/kitian616/jekyll-TeXt-theme
     });
   });
 })();
+
