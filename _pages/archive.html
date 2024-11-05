@@ -11,7 +11,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            {%- if false -%}
+
             <!-- Tags (as filter) -->
             <div id='tag_cloud' class="tags tags-sup js-tags">
                 <a class="tag-button--all" data-encode="">
@@ -21,18 +21,17 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
 
                 {%- capture tags -%}
                     {%- for tag in site.tags -%}
-                <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}"
-                    data-encode="{{ tag[0] | strip | url_encode }}"
-                    class="tag-button"
-                    title="{{ tag[0] }}" rel="{{ tag[1].size }}">
-                    {{ tag[0] }}
-                    <sup>{{tag[1].size}}</sup>
-                </a>__SEPERATOR__
+                        <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}"
+                            data-encode="{{ tag[0] | strip | url_encode }}"
+                            class="tag-button"
+                            title="{{ tag[0] }}" rel="{{ tag[1].size }}">
+                            {{ tag[0] }}
+                            <sup>{{ tag[1].size }}</sup>
+                        </a>__SEPERATOR__
                     {%- endfor -%}
                 {%- endcapture -%}
                 {{ tags | split:'__SEPERATOR__' | sort }}
             </div>
-            {%- endif -%}
 
             <!-- Article List -->
             <div class="mini-post-list js-result">
@@ -54,12 +53,12 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
 
                     {%- if _currentdate != _date -%}
                         {%- unless forloop.first -%}
-                </section>
+                            </section>
                         {%- endunless -%}
-                <section>
-                    <span class="fa listing-seperator">
-                        <span class="tag-text">{{ _currentdate }}</span>
-                    </span>
+                        <section>
+                            <span class="fa listing-seperator">
+                                <span class="tag-text">{{ _currentdate }}</span>
+                            </span>
                         {%- assign _date = _currentdate -%}
                     {%- endif -%}
 
@@ -67,7 +66,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
                         <a href="{{ _article.url | prepend: site.baseurl }}">
                             <h2 class="post-title">{{ _article.title }}</h2>
                             {%- if _article.subtitle -%}
-                            <h3 class="post-subtitle">{{ _article.subtitle }}</h3>
+                                <h3 class="post-subtitle">{{ _article.subtitle }}</h3>
                             {%- endif -%}
                         </a>
                         <hr>
@@ -78,3 +77,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103104-c8
         </div>
     </div>
 </div>
+
+<!-- JavaScript für Tag-Filterung -->
+<script src="{{ '/assets/js/archive.js' | relative_url }}"></script>
+
