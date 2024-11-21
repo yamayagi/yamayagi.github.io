@@ -43,7 +43,18 @@ tags: [bergwandern]
 ![20241108schaufelspitze2](https://piwigo.schickl.de/i.php?/upload/2024/11/21/20241121150311-592f39dc-me.jpg)
 
 
-#　東側から西側へ・・・
+#　西側から東側へ・・・
+
+東側。
+
+太陽の日差しが暖かい！！
+
+![20241116ostseite](https://piwigo.schickl.de/i.php?/upload/2024/11/21/20241121150804-680decb5-me.jpg)
+
+花も咲いている！　今、11月・・・。
+
+![20241116blumen]
+
 
 
 
