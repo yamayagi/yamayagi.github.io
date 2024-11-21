@@ -43,7 +43,7 @@ tags: [bergwandern]
 ![20241108schaufelspitze2](https://piwigo.schickl.de/i.php?/upload/2024/11/21/20241121150311-592f39dc-me.jpg)
 
 
-#　西側から東側へ・・・
+# 西側から東側へ・・・
 
 東側。
 
