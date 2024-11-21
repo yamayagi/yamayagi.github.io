@@ -43,9 +43,9 @@ tags: [bergwandern]
 ![20241108schaufelspitze2](https://piwigo.schickl.de/i.php?/upload/2024/11/21/20241121150311-592f39dc-me.jpg)
 
 
-# 西側から東側へ・・・
+# １１月の一期一会
 
-東側。
+西側。
 
 太陽の日差しが暖かい！！
 
@@ -55,7 +55,9 @@ tags: [bergwandern]
 
 ![20241116blumen](https://piwigo.schickl.de/i.php?/upload/2024/11/21/20241121150529-1b29ad52-me.jpg)
 
-西側の谷を歩いて帰ります！
+東側の谷を歩いて帰ります！
+
+「寒いぃぃぃ！！！」
 
 ![20241116puitztal](https://piwigo.schickl.de/i.php?/upload/2024/11/21/20241121151035-1ce84f05-me.jpg)
 
