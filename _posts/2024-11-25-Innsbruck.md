@@ -33,7 +33,7 @@ tags: [innsbruck]
 ![20241125gemse](https://piwigo.schickl.de/i.php?/upload/2024/11/26/20241126053823-d03b1a7f-me.jpg)
 
 
-![20241125alpendole](DSC06035 : https://piwigo.schickl.de/i.php?/upload/2024/11/26/20241126054321-fc57904b-me.jpg)
+![20241125alpendole](https://piwigo.schickl.de/i.php?/upload/2024/11/26/20241126054321-fc57904b-me.jpg)
 
 
 # チロル滞在一日目は・・・
