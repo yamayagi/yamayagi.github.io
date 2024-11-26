@@ -17,10 +17,15 @@ tags: [innsbruck]
 
 # ヴィクター　フランツ　ヘス(Victor Franz Hess)
 
-「Top of Innsbruck」にある旧跡、
+「Top of Innsbruck」にある旧跡、高エネルギー放射線の観測所だった山小屋。
+
+・・・をのぞいてみよう！！
+
+ノーベル物理学賞の受賞者でもあり、インスブルック大学で教授もつとめたヴィクター　フランツ　ヘス(Victor Franz Hess)が、1912年に気球に乗っての観測でイオン化放射線が高度が上がるにつれて強度が増加することを発見しました。
 
 ![20241125viktorfranzhess](https://piwigo.schickl.de/i.php?/upload/2024/11/26/20241126053211-1d56e14c-me.jpg)
 
+放射線の観測所だった小屋では、ヴィクター　フランツ　ヘス(Victor Franz Hess)の歴史をビデオで観ることができます。（通訳します！）　また、当時の観測機械も観ることができます！
 
 
 # 一期一会@Innsbruck 「今日は、ここまで！」
