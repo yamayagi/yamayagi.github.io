@@ -17,6 +17,8 @@ tags: [innsbruck]
 
 # ヴィクター　フランツ　ヘス(Victor Franz Hess)
 
+「Top of Innsbruck」にある旧跡、
+
 ![20241125viktorfranzhess](https://piwigo.schickl.de/i.php?/upload/2024/11/26/20241126053211-1d56e14c-me.jpg)
 
 
