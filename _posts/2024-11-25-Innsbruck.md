@@ -15,7 +15,7 @@ tags: [innsbruck]
 ![20241125nordkettebahn](https://piwigo.schickl.de/i.php?/upload/2024/11/26/20241126052148-b41514e0-me.jpg)
 
 
-# ヴィクター　フランツ　ヘス(Victor Franz Hess)
+# Victor Franz Hess(1883-1964)
 
 「Top of Innsbruck」にある旧跡、高エネルギー放射線の観測所だった山小屋。
 
