@@ -48,8 +48,20 @@ tags: [bergwanderng]
 
 ![20240803flauhitt-blumen](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207044536-e15a0531-me.jpg)
 
+８月、雪が降ることもある。
+
+厳しい自然の中、厳しい気候の中に咲く小さな花。
+
+![20200704falscherkogel-schneehahn](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207051116-53fa12b6-me.jpg)
+
+厳しい自然の中で生きている！
+
+自然に合わせて姿を変える鳥・・・。
+
+![20240807getheweg](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207045917-fe65cf12-me.jpg)
+
+いろんな道がある・・・。
+
 ゴール（目標）に向かう途中の道での経験がいかに価値のあるものか・・・？！
 
 ゴール（目標）よりも価値がある・・・？！
-
-![20200704falscherkogel-schneehahn](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207051116-53fa12b6-me.jpg)
