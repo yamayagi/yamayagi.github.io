@@ -27,8 +27,15 @@ tags: [bergwanderng]
 
 ![20240814]( https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207045159-54dc0487-me.jpg)
 
-山の頂の十字架をみるため？
+山の頂の十字架に会うため？！
 
-山頂からの眺望を楽しむため・・・？
+山頂からの眺望を楽しむため・・・？？？
 
 ![20180719falscherkogel](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207051611-ad7ca816-me.jpg)
+
+個性的な（？）チロルの山の頂の十字架。
+
+達成感！！
+
+![20241018gleischerspitze](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207050314-1071ca60-me.jpg)
+
