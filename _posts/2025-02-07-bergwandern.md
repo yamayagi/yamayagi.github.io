@@ -46,10 +46,10 @@ tags: [bergwanderng]
 
 「道がゴールだ」。
 
-![]()
+![20240803flauhitt-blumen](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207044536-e15a0531-me.jpg)
 
 ゴール（目標）に向かう途中の道での経験がいかに価値のあるものか・・・？！
 
 ゴール（目標）よりも価値がある・・・？！
 
-
+![20200704falscherkogel-schneehahn](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207051116-53fa12b6-me.jpg)
