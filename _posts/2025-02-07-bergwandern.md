@@ -66,7 +66,10 @@ tags: [bergwanderng]
 
 ゴール（目標）よりも価値がある・・・？！
 
+
 # 過程が楽しい・・・？！
+
+![20230821blumen](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207044155-7468176a-me.jpg)
 
 耳を澄まして・・・。
 
@@ -75,3 +78,20 @@ tags: [bergwanderng]
 誰だ・・・？？？
 
 ![20230821wildesmannes-mamuttier](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207044422-29df389a-me.jpg)
+
+安全第一！
+
+足元に気をつけて、そしてよーく見て！！
+
+![20240803frauhittblumen](https://piwigo.schickl.de/i.php?/upload/2024/08/05/20240805165931-1a3c4987-me.jpg)
+
+高山植物は、雨にも負けず、風にも負けず、寒さに耐え・・・。
+
+紫色は、強い日差しに、寒さに強い色！
+
+![20200815hantenjoch-blumen](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207043341-855c4e75-me.jpg)
+
+
+# チロルの山を歩いてみませんか？
+
+
