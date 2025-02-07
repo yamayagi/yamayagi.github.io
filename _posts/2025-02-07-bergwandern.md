@@ -39,3 +39,6 @@ tags: [bergwanderng]
 
 ![20241018gleischerspitze](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207050314-1071ca60-me.jpg)
 
+
+# Der Weg ist das Ziel・・・
+
