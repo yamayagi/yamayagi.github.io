@@ -384,6 +384,11 @@ pre.highlight {
   text-align: right;
   border-radius: 0;
 }
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 @media (max-width: 480px) {
   .highlighter-rouge .highlight {
     margin-left: -15px;
