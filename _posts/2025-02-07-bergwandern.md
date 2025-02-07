@@ -89,8 +89,8 @@ tags: [bergwanderng]
 
 紫色は、強い日差しに、寒さに強い色！
 
-<p align="center">
-</p>![20200815hantenjoch-blumen](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207043341-855c4e75-me.jpg)
+
+![20200815hantenjoch-blumen](https://piwigo.schickl.de/i.php?/upload/2025/02/07/20250207043341-855c4e75-me.jpg){: .img-center }
 
 
 # 私の得意は・・・？
