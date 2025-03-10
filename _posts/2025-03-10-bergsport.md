@@ -77,6 +77,8 @@ tags: [bergsport]
 
 チロルの山で「well being！」
 
+![20250227gemse](https://piwigo.schickl.de/i.php?/upload/2025/03/10/20250310052133-a1a93a01-me.jpg)
+
 
 
 
