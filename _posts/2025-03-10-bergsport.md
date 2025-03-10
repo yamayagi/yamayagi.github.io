@@ -15,4 +15,24 @@ tags: [bergsport]
 ![20250222christrose](https://piwigo.schickl.de/i.php?/upload/2025/03/10/20250310051938-930ad4cc-me.jpg)
 
 
+# 生きる・・・
+
+厳しい冬。２月。
+
+ぎぎぎぎぎぃ。
+
+耳を澄まして・・・。
+
+![20250212eismauer](https://piwigo.schickl.de/i.php?/upload/2025/03/10/20250310051626-3d4c9951-me.jpg)
+
+風を感じて・・・。
+
+厳しい自然の中で生きぬいた大きな角のシュタインボックに出会った。
+
+![202502024steinbock](https://piwigo.schickl.de/i.php?/upload/2025/03/10/20250310051839-5049a6cf-me.jpg)
+
+寒かった。本当に寒かった。寒い日が続いた。
+
+
+# 学ぶ！
 
