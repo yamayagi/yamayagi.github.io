@@ -436,6 +436,14 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 # 白
 
+クリストローゼ (Christrose)
+
+Mittenwald　2025年3月1日 (Mittenwald 1.März.2025)
+
+![20250301christrose](https://piwigo.schickl.de/i.php?/upload/2025/03/10/20250310052856-caa6bf3e-me.jpg)
+
+
+
 ツヴァイブレットリゲ　ヴァルトヒアチンツェ (Zweiblättrige Waldhyazinthe)
 
 カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
