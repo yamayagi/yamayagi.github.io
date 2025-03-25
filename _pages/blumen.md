@@ -333,6 +333,15 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 # 黄
 
+Alpen-Goldstern (アルペン-ゴールドシュテルン)
+ 
+ハイミング　2025年3月21日 (Haiming 21.März.2025)
+
+ドイツ語を日本語に直訳！　「アルペン-金星」！！
+
+![202503](https://piwigo.schickl.de/i.php?/upload/2025/03/22/20250322074253-4556067e-me.jpg)
+
+
 ヨハニスクラウト (Johanisskraut)
 
 カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
