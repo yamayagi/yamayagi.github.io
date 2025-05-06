@@ -282,6 +282,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240831schwalbewurzenzian](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908143953-b84133d6-me.jpg)
 
 
+インマーグリューン (Immergrün)
+
+インスブルック　2025年5月04日 (Innsbruck 4.Mai.2025)
+
+![20250504immergruen](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506104012-cd0ce6d2-me.jpg)
+
+
 # チロルの薬草（ハーブ）
 
 レバーブリューヒェン　（Leberblüchen)
@@ -440,6 +447,12 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 ![20240702zypressenwolfsmilch](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724090702-c1af3eae-me.jpg)
 
 
+オーストライッヒシェ ゲムスヴルツ (Österreichsche Gemswurz)
+
+インスブルック　2025年5月04日 ( 04.Mai.2025)
+
+![20250504öesterreichschegemswurz](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506103245-9758c761-me.jpg)
+
 
 # 白
 
@@ -476,6 +489,12 @@ Mittenwald　2025年3月1日 (Mittenwald 1.März.2025)
 
 ![20250504aehrigescristopfskraut](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506103457-8ce80750-me.jpg)
 
+
+ヴァルトフォーゲライン (Waldvögelein)
+
+インスブルック　2025年5月04日 (Innsbruck 04.Mai.2025)
+
+![20250504waldvoegelein](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506103922-b9130a9c-me.jpg)
 
 
 ツヴァイブレットリゲ　ヴァルトヒアチンツェ (Zweiblättrige Waldhyazinthe)
