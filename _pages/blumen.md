@@ -252,15 +252,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 ![20240714grossebrauelle](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721153337-ce9c7fb4-me.jpg)
 
 
-フィンガー-クウシェレ 　(Finger-Kuhschelle)
+クウシェレ 　(Kuhschelle)
 
-花は紫色。
+花は紫色。　
 
-ちょっと遅かったぁ・・・。　
+オェッツターラー　アルペン 　2025年5月5日 (Ötztaler Alpen 5.Mai.2025)
 
-レッヒターラー　アルペン 　2024年7月5日 (Lechtaler Alpen 5.Juli.2024)
-
-![fingerkuhschelle](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724094817-37ecd418-me.jpg)
+![20250505kuhschelle](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506103137-1f3bec6e-me.jpg)
 
 
 スカビオーゼ 　(Skabiose)
