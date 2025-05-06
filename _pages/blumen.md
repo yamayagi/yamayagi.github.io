@@ -470,6 +470,14 @@ Mittenwald　2025年3月1日 (Mittenwald 1.März.2025)
 ![20250301christrose](https://piwigo.schickl.de/i.php?/upload/2025/03/10/20250310052856-caa6bf3e-me.jpg)
 
 
+エーリゲス クリストフスクラウト (Ähriges Christophskraut)
+
+インスブルック　2025年5月04日 (Innsbruck 04.Mai.2025)
+
+![20250504aehrigescristopfskraut](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506103457-8ce80750-me.jpg)
+
+
+
 ツヴァイブレットリゲ　ヴァルトヒアチンツェ (Zweiblättrige Waldhyazinthe)
 
 カルヴェンデル　2024年7月02日 (Karwendel 02.Juli.2024)
