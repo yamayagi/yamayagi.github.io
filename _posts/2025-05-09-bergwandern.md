@@ -47,7 +47,7 @@ tags: [info]
 
 おっ、チロルの山の仲間が呼んでいる？！
 
-！[20250505mamuttier](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102900-6462620c-me.jpg)
+![20250505mamuttier](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102900-6462620c-me.jpg)
 
 
 
