@@ -1,7 +1,7 @@
 ---
 title: この星に生まれて
 subtitle: 私について
-tags: [blumen][tier][musik][bergwandern]
+tags: [info]
 ---
 
 # 私について
