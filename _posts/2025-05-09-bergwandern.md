@@ -43,11 +43,22 @@ tags: [info]
 
 雨の雫が、丸い（まあるい）宝石のよう・・・。
 
+![20250505mamuttier](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102900-6462620c-me.jpg)
+
 「ぴー！」
 
 おっ、チロルの山の仲間が呼んでいる？！
 
-![20250505mamuttier](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102900-6462620c-me.jpg)
+いやいや、ちょっと違うかなぁ・・・。　「ぴー！」って、なんで声を出しているのだろう・・・？？？
+
+![20250505wasser](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506104807-c3c794d5-me.jpg)
+
+水の流れ・・・。
+
+雲の中。　いつの間にか雲の中。　誰だろう？
+
+![20250505tier-wolken](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102951-b76fbc82-me.jpg)
+
 
 
 
