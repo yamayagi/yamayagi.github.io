@@ -21,3 +21,19 @@ tags: [info]
 ![20250509fortbildung-rosengarten](https://piwigo.schickl.de/i.php?/upload/2025/05/09/20250509115355-d2057a95-me.jpg)
 
 
+# この星に生まれて
+
+広い宇宙の中の地球という星に生まれて・・・。
+
+「この星に生まれて」、大好きな歌です。
+
+🎶 どんな言葉で飾るよりも　生きる力を持ち続けて　・・・
+
+雨にも負けず、寒さにも負けず、のんびり歩きます。
+
+![20250505kuhschelle](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506103022-1ecbfaa5-me.jpg)
+
+🎵 谷間の小さなしらゆりでも　冬を耐え抜き　花を咲かす　・・・
+
+
+
