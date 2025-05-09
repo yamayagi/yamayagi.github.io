@@ -72,7 +72,7 @@ tags: [info]
 
 ![20250502karwendel-wolken](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506104612-3b016536-me.jpg)
 
-生きる力を持ち続けて・・・。リラックスぅ
+生きる力を持ち続けて・・・。リラックスぅ。
 
 泳ごうと思って水の中に足を進める。
 
