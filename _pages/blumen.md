@@ -470,6 +470,13 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 # 白
 
+Fersen-Scaumkresse (フェルゼン-シャウムクレッセ)
+ 
+サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
+
+![20250614fersenschaukresse](https://piwigo.schickl.de/i.php?/upload/2025/06/15/20250615142542-35edb3a6-me.jpg)
+
+
 フリューリングス-クロックス (Flühlings-Krokus)
 
 ドイツ語を日本語に直訳。「春のクロッカス。」
