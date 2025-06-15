@@ -352,6 +352,14 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 
 # 黄
 
+Hoppe-Felsenblümchen (ホップ-フェルゼンブリュームヒェン)
+ 
+サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
+
+![20250614hoppefelsenbluemchen](https://piwigo.schickl.de/i.php?/upload/2025/06/15/20250615143009-42924073-me.jpg)
+
+
+
 Trollblume (トロールブルーメ)
  
 サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
