@@ -138,7 +138,7 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ![bergbalsrin](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721152546-0a84fc79-me.jpg)
 
 
-　ブュシェリゲス　レェウゼクラウト (Büscheliges Läusekraut)
+ブュシェリゲス　レェウゼクラウト (Büscheliges Läusekraut)
 
 毒があるよ！　気をつけて！！
 
@@ -192,6 +192,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 
 # 青
+
+Alpen-Veilchen (アルペン-ファイルヒェン)
+ 
+サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
+
+![20250614alpenveilchen](https://piwigo.schickl.de/i.php?/upload/2025/06/15/20250615141824-9472ec02-me.jpg)
+
 
 エンチアン (Enzian)
 
