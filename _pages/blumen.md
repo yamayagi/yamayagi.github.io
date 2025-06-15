@@ -345,6 +345,13 @@ A : 肺の草（薬草）（Lungenkraut）の古典的な投与方法は、お�
 
 # 黄
 
+Trollblume (トロールブルーメ)
+ 
+サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
+
+![20250614trollblume](https://piwigo.schickl.de/i.php?/upload/2025/06/15/20250615143215-bfc3b195-me.jpg)
+
+
 Alpen-Goldstern (アルペン-ゴールドシュテルン)
  
 ハイミング　2025年3月21日 (Haiming 21.März.2025)
