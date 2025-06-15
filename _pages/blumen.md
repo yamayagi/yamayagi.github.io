@@ -17,6 +17,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+インターラー　プリメル (Inntaler Primel)
+
+フェント　　2025年5月06日 (Vent 06.Mai.2025)
+
+![20250506inntalerprimel](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102540-d5be474d-me.jpg)
+
+
 アルペン-ツァイトローゼ (Alpen-Zeitlose)
 
 ベッターシュタインゲビリゲ　　2024年9月07日 (Wettersteingebirge 07.September.2024)
