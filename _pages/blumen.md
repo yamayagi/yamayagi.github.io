@@ -491,7 +491,7 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 # 白
 
-Fersen-Scaumkresse (フェルゼン-シャウムクレッセ)
+Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
  
 サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
 
