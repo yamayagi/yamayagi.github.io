@@ -17,6 +17,17 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 # 赤 
 
+シュヴァルツェス　コールロッシェン　(Schwarzes Kohlröschen)
+
+レッヒターラー　アルペン 　2017年7月7日 (Lechtaler Alpen 7.Juli.2017)
+
+直訳すると、黒の炭の小薔薇ちゃん？！　花は小さい。花に鼻を近づけると・・・。
+
+チョコレートの香り！
+
+![20170707schwarzeskohlroeschen](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719145827-96b668bf-me.jpg)
+
+
 インターラー　プリメル (Inntaler Primel)
 
 フェント　　2025年5月06日 (Vent 06.Mai.2025)
