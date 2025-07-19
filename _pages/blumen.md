@@ -21,9 +21,9 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 レッヒターラー　アルペン 　2017年7月7日 (Lechtaler Alpen 7.Juli.2017)
 
-直訳すると、黒の炭の小薔薇ちゃん？！　花は小さい。花に鼻を近づけると・・・。
+直訳すると、黒の炭の小薔薇ちゃん？！　花は小さい。花に鼻を近づけると・・・。チョコレートの香り！
 
-チョコレートの香り！
+特別保護指定されています。　ラン科なので、ランの仲間です。
 
 ![20170707schwarzeskohlroeschen](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719145827-96b668bf-me.jpg)
 
