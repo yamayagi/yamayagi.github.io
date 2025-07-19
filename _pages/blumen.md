@@ -509,6 +509,13 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 # 白
 
+Moosauge (モースアウゲ)
+ 
+ヴィップ谷　2025年7月3日 (Wipptal 3.Juli.2025)
+
+![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
+
+
 Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
  
 サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
