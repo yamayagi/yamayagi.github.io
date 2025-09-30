@@ -83,7 +83,7 @@ Okamotoさん　氷河の山々　雪化粧
 
 お問い合わせは、メールにて（下の手紙マークをポチッとして、携帯電話の場合は手紙マークにタッチして）お願いいたします。
 
-![20250917mamuttier] (https://piwigo.schickl.de/i.php?/upload/2025/09/30/20250930135824-3a31b660-me.jpg)
+![20250917mamuttier](https://piwigo.schickl.de/i.php?/upload/2025/09/30/20250930135824-3a31b660-me.jpg)
 
 
 
