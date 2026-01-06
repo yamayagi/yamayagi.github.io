@@ -4,7 +4,7 @@ subtitle: 私について
 tags: [info,tier]
 ---
 
-# 私　と　Sperber （ハイタカ）
+# 私とSperber （ハイタカ）
 
 あけましておめでとうございます！
 
