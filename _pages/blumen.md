@@ -360,7 +360,7 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 
 # チロルの薬草（ハーブ）
 
-![leberbluechen](https://piwigo.schickl.de/i.php?/upload/2024/01/18/20240118091912-a67d65f2-me.jpg)
+![leberbluechen](https://piwigo.schickl.de/i.php?/upload/2026/03/23/20260323140329-f33b4517-me.jpg)
 
 レバーブリューヒェン　（Leberblüchen)
 
