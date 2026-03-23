@@ -7,16 +7,17 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 チロルの山で出会った花。
 
+・写真
+
 ・花の名前
 
 ・場所・日付
 
-・写真
-
-の順で色別にしています。日付は、チロルを訪ねる時期を考える際の参考になればと思います。まだまだ、たくさんあります。ふっと（ほっと）一息、そんな時に「チロルの花」のページを開いてみてください！
+の順に2026年3月23日に変更しました！　そして色別にしています。日付は、チロルを訪ねる時期を考える際の参考になればと思います。まだまだ、たくさんあります。ふっと（ほっと）一息、そんな時に「チロルの花」のページを開いてみてください！
 
 # 赤 
 
+![20170707schwarzeskohlroeschen](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719145827-96b668bf-me.jpg)
 シュヴァルツェス　コールロッシェン　(Schwarzes Kohlröschen)
 
 レッヒターラー　アルペン 　2017年7月7日 (Lechtaler Alpen 7.Juli.2017)
@@ -25,15 +26,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 特別保護指定されています。　ラン科なので、ランの仲間です。
 
-![20170707schwarzeskohlroeschen](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719145827-96b668bf-me.jpg)
 
+![20250506inntalerprimel](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102540-d5be474d-me.jpg)
 
 インターラー　プリメル (Inntaler Primel)
 
 フェント　　2025年5月06日 (Vent 06.Mai.2025)
 
-![20250506inntalerprimel](https://piwigo.schickl.de/i.php?/upload/2025/05/06/20250506102540-d5be474d-me.jpg)
 
+![20240907alpenzeitlose](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908144237-46c16602-me.jpg)
 
 アルペン-ツァイトローゼ (Alpen-Zeitlose)
 
@@ -41,14 +42,14 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 毒があるよ！　気をつけて・・・。
 
-![20240907alpenzeitlose](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908144237-46c16602-me.jpg)
 
+![20240907wiesenflockenblume](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908144517-f4d3eebf-me.jpg)
 
 ヴィーゼン-フロッケンブルーメ (Wiesen-Flockenblume)
 
 ベッターシュタインゲビリゲ　　2024年9月07日 (Wettersteingebirge 07.September.2024)
 
-![20240907wiesenflockenblume](https://piwigo.schickl.de/i.php?/upload/2024/09/08/20240908144517-f4d3eebf-me.jpg)
+
 
 
 ローテス　ヴァルトフォゥクライン (Rotes Waldvöglein)
