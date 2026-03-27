@@ -753,6 +753,15 @@ Mittenwald　2025年3月1日 (Mittenwald 1.März.2025)
 オッツタール　2026年3月15日 (Ötztal  15.März.2026)
 
 
+![20260326buchskreuzblume](https://piwigo.schickl.de/i.php?/upload/2026/03/27/20260327093419-e0a687ba-me.jpg)
+
+ブフス-クロイツブルーメ (Buchs-kreuzblume)
+
+「トキワヒメハギ」と言うらしい・・・。
+
+オッツタール　2026年3月26日 (Ötztal  26.März.2026)
+
+
 # 緑
 
 アインベエレ (Einbeere)
