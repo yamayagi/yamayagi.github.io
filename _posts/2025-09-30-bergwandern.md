@@ -1,7 +1,7 @@
 ---
 title: Okamoto Stube
 subtitle: 一期一会@宇宙
-tags: [bergwanderng]
+tags: [bergwandern]
 ---
 
 # 私について
