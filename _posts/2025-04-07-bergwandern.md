@@ -1,7 +1,7 @@
 ---
 title: チロルの海
 subtitle: 私について
-tags: [bergwanderng]
+tags: [bergwandern]
 ---
 
 # 私について
