@@ -1,7 +1,7 @@
 ---
 title: 山に登ろう！
 subtitle: Der Weg ist das Ziel・・・
-tags: [bergwanderng]
+tags: [bergwandern]
 ---
 
 # 私について
