@@ -543,6 +543,20 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 インスブルック　2025年5月04日 ( 04.Mai.2025)
 
 
+![20260329dotterblumen](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114315-e2968b2b-me.jpg)
+
+ドッターブルーメン (Dotterblumen)
+
+ハイミング　2026年3月29日 ( 29.März.2026)
+
+
+![20260328löwenzahn](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114548-59291204-me.jpg)
+
+ローヴェンツァーン (Löwenzahn)
+
+ハイミング　2026年3月28日 (28.März.2026)
+
+西洋たんぽぽ、ヨーロッパのたんぽぽ。（直訳すると・・・、「ライオンの歯」）
 
 
 # 白
