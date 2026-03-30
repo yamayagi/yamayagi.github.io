@@ -783,6 +783,24 @@ Mittenwald　2025年3月1日 (Mittenwald 1.März.2025)
 オッツタール　2026年3月26日 (Ötztal  26.März.2026)
 
 
+![20260327vogelkirsche](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114625-9ecd5117-me.jpg)
+
+フォーゲルキルシェ (Vogelkirsche)
+
+直訳すると「鳥の桜」。
+
+ハイミング　2026年3月27日 (Haiming  27.März.2026)
+
+
+![20260329weißepestwurz](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114709-f14776f8-me.jpg)
+
+ヴァイセ　ペストヴルツ (Weiße Pestwurz)
+
+ふきのとうの花。
+
+ハイミング　2026年3月29日 (Haiming  29.März.2026)
+
+
 # 緑
 
 アインベエレ (Einbeere)
