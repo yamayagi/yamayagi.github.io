@@ -358,11 +358,19 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 
 ![20260329](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114449-f77dd7d0-me.jpg)
 
+
 フリューリングス-クロックス (Frühlings-Krokus)
 
 ハイミング　2026年3月29日 (Haiming 29.März.2026)
 
 直訳すると「春のクロッカス」。　急斜面で見つけた・・・。ピンぼけ・・・。
+
+
+![20260408buchskreuzblume](https://piwigo.schickl.de/i.php?/upload/2026/04/09/20260409154554-b53c1f16-me.jpg)
+
+ブーフス-クロイツブルーメ (Buchs-kreuzblume)
+
+ヴィップタール　2026年4月8日 (Wipptal  8.April.2026)
 
 
 # チロルの薬草（ハーブ）
@@ -776,9 +784,7 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 
 ![20260326buchskreuzblume](https://piwigo.schickl.de/i.php?/upload/2026/03/27/20260327093419-e0a687ba-me.jpg)
 
-ブフス-クロイツブルーメ (Buchs-kreuzblume)
-
-「トキワヒメハギ」と言うらしい・・・。
+ブーフス-クロイツブルーメ (Buchs-kreuzblume)
 
 オッツタール　2026年3月26日 (Ötztal  26.März.2026)
 
