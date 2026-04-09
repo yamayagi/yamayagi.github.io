@@ -567,6 +567,13 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 西洋たんぽぽ、ヨーロッパのたんぽぽ。（直訳すると・・・、「ライオンの歯」）
 
 
+![20260407frühlingsfingerkraut](https://piwigo.schickl.de/i.php?/upload/2026/04/09/20260409154319-f5477fc9-me.jpg)
+
+フリューリングス フィンガークラウト (Flürings Fingerkraut)
+
+ハイミング　2026年4月7日 (Haiming 7.April.2026)
+
+
 # 白
 
 ![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
