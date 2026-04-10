@@ -1,7 +1,7 @@
 ---
 title: 一期一会@Innsbruck
 subtitle: ヴィクター　フランツ　ヘス（Victor Franz Hess）
-tags: [innsbruck]
+tags: [チロル,インスブルック,山歩き,登山,動物,鳥,自然]
 ---
 
 # インスブルック(Innsbruck)の名所・旧跡
