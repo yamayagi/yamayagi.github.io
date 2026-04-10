@@ -1,7 +1,7 @@
 ---
 title: Okamoto Stube
 subtitle: 一期一会@宇宙
-tags: [bergwandern]
+tags: [チロル,山歩き,登山,山小屋,動物,食べ物,自然,鉄道,俳句]
 ---
 
 # 私について
@@ -14,7 +14,7 @@ tags: [bergwandern]
 
 ![20250929obergurglberg](https://piwigo.schickl.de/i.php?/upload/2025/09/30/20250930130408-ddeef398-me.jpg)
 
-Okamotoさん　氷河の山々　雪化粧
+「Okamotoさん　氷河の山々　雪化粧」
 
 字余りいっぱいありますが、９月に知り合ったOkamotoさんへ・・・。
 
