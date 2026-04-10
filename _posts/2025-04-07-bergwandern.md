@@ -1,7 +1,7 @@
 ---
 title: チロルの海
 subtitle: 私について
-tags: [bergwandern]
+tags: [チロル,湖,SDGs,鉄道,春,山歩き,地球温暖化]
 ---
 
 # 私について
