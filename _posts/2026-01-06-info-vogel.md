@@ -1,7 +1,7 @@
 ---
 title:    新しいはじまり・・・  
 subtitle: 私について
-tags: [tirol,wandern,info,tier,vogel]
+tags: [チロル,山歩き,info,動物,鳥]
 ---
 
 # 私とSperber （ハイタカ）
