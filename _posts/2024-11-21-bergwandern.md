@@ -1,7 +1,7 @@
 ---
 title: 11月の山歩き
 subtitle: 一期一会@Tirol
-tags: [bergwandern]
+tags: [チロル,山歩き,登山,秋,自然,山小屋,花]
 ---
 
 # 岩登りの帰り道・・・
