@@ -1,7 +1,7 @@
 ---
 title: 山に登ろう！
 subtitle: Der Weg ist das Ziel・・・
-tags: [bergwandern]
+tags: [チロル,登山,花,動物,夏,山歩き]
 ---
 
 # 私について
