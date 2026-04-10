@@ -1,7 +1,7 @@
 ---
 title: well being
 subtitle: 一期一会@地球
-tags: [bergsport]
+tags: [チロル,登山,山歩き,私について,自然,動物,well-being]
 ---
 
 # 私について
