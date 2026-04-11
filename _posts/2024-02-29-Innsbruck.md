@@ -1,7 +1,7 @@
 ---
 title: 一期一会@Innsbruck
 subtitle: ２月のアクティビティ
-tags: [innsbruck]
+tags: [チロル,インスブルック,花,鳥,動物,山歩き]
 ---
 
 # インスブルック(Innsbruck)
