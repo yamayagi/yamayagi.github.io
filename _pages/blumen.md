@@ -743,6 +743,7 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 
 ![taubenkropfleimkraut](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721150735-1871c71e-me.jpg)
 
+
 タウベンクロップフ　ライムクラウト (Taubenkropf Leimkraut)
 
 カルヴェンデル（ゼーフェルト）　2024年7月20日 (Karwendel(Seefeld) 20.Juli.2024)
@@ -820,6 +821,16 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 ふきのとうの花。
 
 ハイミング　2026年3月29日 (Haiming  29.März.2026)
+
+
+![20260412taubnessel](https://piwigo.schickl.de/i.php?/upload/2026/04/13/20260413130847-a653d14d-me.jpg)
+
+タウプネッセル (Taubnessel)
+
+若い葉っぱは、サラダに使えます！
+他にも歩いている途中で困った、そんな時、こんな風に・・・。痛みのあるところ、日焼けしたところ、棘の刺さったところへ。
+
+オェッツタール　アルペン　2026年4月12日 (Ötztal Alpen 12.April.2026)
 
 
 # 緑
