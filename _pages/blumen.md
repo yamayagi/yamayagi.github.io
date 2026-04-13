@@ -373,10 +373,9 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 ヴィップタール　2026年4月8日 (Wipptal  8.April.2026)
 
 
-<p align="center">
-  <img src="画像URL" width="300">
-</p>[20260412ackersteinmuetterchen](https://piwigo.schickl.de/i.php?/upload/2026/04/13/20260413130754-10e81aba-me.jpg)
-
+[20260412ackersteinmuetterchen]<p align="center">
+  <img src="(https://piwigo.schickl.de/i.php?/upload/2026/04/13/20260413130754-10e81aba-me.jpg)" width="300">
+</p>
 アッカー-シュティーフミュッターヒェン / フェルト- シュティーフミュッターヒェン (Acker-Stiefmütterchen / Feld-Stiefmütterchen)
 
 オェッツタール　アルペン　2026年4月12日 (Ötztal Alpen 12.April.2026)
