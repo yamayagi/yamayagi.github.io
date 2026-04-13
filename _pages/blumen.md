@@ -373,6 +373,14 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 ヴィップタール　2026年4月8日 (Wipptal  8.April.2026)
 
 
+![20260412ackersteinmuetterchen](https://piwigo.schickl.de/i.php?/upload/2026/04/13/20260413130754-10e81aba-me.jpg)
+
+アッカー-シュティーフミュッターヒェン / フェルト- シュティーフミュッターヒェン (Acker-Stiefmütterchen / Feld-Stiefmütterchen)
+
+オェッツタール　アルペン　2026年4月12日 (Ötztal Alpen 12.April.2026)
+
+
+
 # チロルの薬草（ハーブ）
 
 ![leberbluechen](https://piwigo.schickl.de/i.php?/upload/2026/03/23/20260323140329-f33b4517-me.jpg)
@@ -786,14 +794,14 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 
 ヴァイセス ヴァイルヘン (Weißes Veilchen)
 
-オッツタール　2026年3月15日 (Ötztal  15.März.2026)
+オェッツタール　アルペン　年3月15日 (Ötztal Alpen 15.März.2026)
 
 
 ![20260326buchskreuzblume](https://piwigo.schickl.de/i.php?/upload/2026/03/27/20260327093419-e0a687ba-me.jpg)
 
 ブーフス-クロイツブルーメ (Buchs-kreuzblume)
 
-オッツタール　2026年3月26日 (Ötztal  26.März.2026)
+オッツタール　アルペン　2026年3月26日 (Ötztal Alpen 26.März.2026)
 
 
 ![20260327vogelkirsche](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114625-9ecd5117-me.jpg)
