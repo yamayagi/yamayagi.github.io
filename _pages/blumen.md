@@ -574,6 +574,7 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 この葉っぱは、生で食べられません。
 
+
 # 白
 
 ![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
@@ -864,6 +865,21 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 ドイツ語の名前を直訳すると・・・。「狼のミルク」だ？！
 
 インスブルック　2023年5月14日 (Innsbruck 14.Mai.2023)
+
+
+# チロルの薬草（ハーブ）
+
+![20260418spitz-wegrich](https://piwigo.schickl.de/i.php?/upload/2026/04/21/20260421113936-94a4014f-me.jpg)
+
+シュピッツ-ベークリッヒ (Spitz-Wegrich)
+
+インスブルック　2026年4月18日 (Innsbruck 18.April.2026)
+
+虫に刺された！
+
+シュピッツ-ベークリッヒ (Spitz-Wegrich)を直接当てる、または、葉っぱを潰して虫に刺されたところにすりつける。
+
+効果抜群です！
 
 
 
