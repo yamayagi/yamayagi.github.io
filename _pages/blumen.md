@@ -563,8 +563,6 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 ハイミング　2026年4月7日 (Haiming 7.April.2026)
 
-葉っぱが、クノーブラウクスラウケ(Knoblauchsrauke)に似ているのですが・・・。この葉っぱは、生で食べられません。
-
 
 ![20260421schoellkraut](https://piwigo.schickl.de/i.php?/upload/2026/04/22/20260422125708-698296eb-me.jpg)
 
@@ -572,6 +570,9 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 ハイミング　2026年4月21日 (Haiming 21.April.2026)
 
+葉っぱが、クノーブラウクスラウケ(Knoblauchsrauke)に似ているのですが・・・。
+
+この葉っぱは、生で食べられません。
 
 # 白
 
