@@ -356,8 +356,7 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 ハイミング　2026年4月07日 (Haiming 7.April.2026)
 
 
-![20260329](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114449-f77dd7d0-me.jpg)
-
+![20260329frühlings-krokus](https://piwigo.schickl.de/i.php?/upload/2026/03/30/20260330114449-f77dd7d0-me.jpg)
 
 フリューリングス-クロックス (Frühlings-Krokus)
 
@@ -570,7 +569,7 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 ハイミング　2026年4月21日 (Haiming 21.April.2026)
 
-葉っぱが、クノーブラウクスラウケ(Knoblauchsrauke)に似ているのですが・・・。
+葉っぱが、クノーブラウクスラウケ(Knoblauchsrauke)([20260418knoblauchsrauke](https://piwigo.schickl.de/i.php?/upload/2026/04/23/20260423092436-1f6ad57f-me.jpg))に似ているのですが・・・。
 
 この葉っぱは、生で食べられません。
 
@@ -591,7 +590,7 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 サンクト・アントン　2025年6月14日 (St.Anton 14.Juni.2025)
 
 
-![20250319](https://piwigo.schickl.de/i.php?/upload/2025/03/22/20250322074056-969a02b6-me.jpg)
+![20250319fluelings-krokus](https://piwigo.schickl.de/i.php?/upload/2025/03/22/20250322074056-969a02b6-me.jpg)
 
 フリューリングス-クロックス (Flühlings-Krokus)
 
