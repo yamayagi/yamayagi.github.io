@@ -604,6 +604,21 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 この葉っぱは、生で食べられません。
 
 
+![20260429scharbockskraut](https://piwigo.schickl.de/i.php?/upload/2026/05/02/20260502112312-b8e732b9-me.jpg)
+
+シャルボックスクラウト　(Scharbockskraut)
+
+オェッツターラー アルペン 　2026年4月29日 (Ötztaler Alpen 29.April.2026)
+
+
+![20260427grosserbocksbart](https://piwigo.schickl.de/i.php?/upload/2026/05/02/20260502112132-a108c967-me.jpg)
+
+グローサー ボックスバルト　(Großer Bocksbart)
+
+ロッペン　2026年4月27日 (Roppen 27.April.2026)
+
+
+
 # 白
 
 ![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
