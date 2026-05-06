@@ -180,6 +180,13 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 ハイミング 　2026年3月14日 (Haiming 14.März.2026)
 
 
+![20260429mittlerewegerich](https://piwigo.schickl.de/i.php?/upload/2026/05/02/20260502112212-1b54757a-me.jpg)
+
+ミットレレ　ヴェゲリッヒ　(Mittlere Wegerich)
+
+オェッターラー アルペン 　2026年4月29日 (Ötztaler Alpen 29.April.2026)
+
+
 # チロルの薬草（ハーブ）
 
 ![sandthymian](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721151103-a8f25954-me.jpg)
