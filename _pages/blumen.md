@@ -184,7 +184,17 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 
 ミットレレ　ヴェゲリッヒ　(Mittlere Wegerich)
 
-オェッターラー アルペン 　2026年4月29日 (Ötztaler Alpen 29.April.2026)
+オェッツターラー アルペン 　2026年4月29日 (Ötztaler Alpen 29.April.2026)
+
+
+![20260429rotelichtnelke](https://piwigo.schickl.de/i.php?/upload/2026/05/02/20260502111435-fa14ad05-me.jpg)
+
+ローテ　リヒトネルケ　(Rote Lichtnelke)
+
+オェッツターラー アルペン 　2026年4月29日 (Ötztaler Alpen 29.April.2026)
+
+蝶々は、日本語だと「クモマツマキチョウ」。ドイツ語では「Aurorafalter」
+
 
 
 # チロルの薬草（ハーブ）
@@ -401,6 +411,16 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 内臓においては、胃腸炎（急性胃腸炎）や腎炎（腎臓炎）を引き起こす可能性があるためである。
 
 ・・・ということで、肝臓としての薬草として使用するべきではない。
+
+
+![20260429aldvergissmeinnicht](https://piwigo.schickl.de/i.php?/upload/2026/05/06/20260506174557-ec521f74-me.jpg)
+
+ヴァルト-フェアギスマインニヒト　(Wald-Vergissmeinnicht)
+
+オェッツターラー アルペン 　2026年4月29日 (Ötztaler Alpen 29.April.2026)
+
+森のわすれな草・・・。ドイツ語直訳「私のこと忘れないで！」。
+
 
 
 # チロルの薬草（ハーブ）
