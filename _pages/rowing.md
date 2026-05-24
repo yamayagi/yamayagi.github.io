@@ -17,7 +17,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02
 
 「Wanderrudern」　とは・・・？？？
 
-Rowingボート（ギックボート）で水上をのんびり歩くような速さでいきます。　
+Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で水上をのんびり歩くような速さでいきます。　
 
 ![gigboot](https://piwigo.schickl.de/i.php?/upload/2024/04/25/20240425130548-21ab645a-me.jpg)
 
