@@ -21,7 +21,7 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 
 ![gigboot](https://piwigo.schickl.de/i.php?/upload/2024/04/25/20240425130548-21ab645a-me.jpg)
 
-[ギックボート](https://swiftracingjapan.com/gigs/) は、上の写真のような日本のナックルフォアのようなボート。　日本のナックルフォアは、日本にだけあるボート。ギックボートは、漕ぎ手が３人、４人、６人、８人にコックス、いろんな大きさがある。
+[ギックボート](https://swiftracingjapan.com/gigs/) は、上の写真のような日本のナックルフォアのようなボート。　日本のナックルフォアは、日本にだけあるボート。[ギックボート](https://swiftracingjapan.com/gigs/)は、漕ぎ手が３人、４人、６人、８人にコックス、いろんな大きさがある。
 
 上の写真は、結婚式の教会から新郎・新婦がボートでボートクラブまで来るところ・・・。　（結婚式なので、これは特別一人漕ぎで、新婦がコックス。）
 
