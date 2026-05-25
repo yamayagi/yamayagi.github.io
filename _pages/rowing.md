@@ -394,3 +394,11 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 
 ![20260519blaukringe](https://piwigo.schickl.de/i.php?/upload/2026/05/20/20260520135530-508cc0bf-me.jpg)
 
+
+
+# Rowing note22
+
+「きみは誰？　家にかえって　調べよう」
+
+![20260521waldbaumlaeufer](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084729-a187dbaa-me.jpg)
+
