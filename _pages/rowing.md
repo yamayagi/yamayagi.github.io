@@ -402,3 +402,11 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 
 ![20260521waldbaumlaeufer](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084729-a187dbaa-me.jpg)
 
+
+
+# Rowing note23
+
+「爽（さわ）やかな　風の流れる　水辺をいく」
+
+![20260521Kaunergradhütte](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084806-21d07f0c-me.jpg)
+
