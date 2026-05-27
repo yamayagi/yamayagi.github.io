@@ -410,3 +410,12 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 
 ![20260521Kaunergradhütte](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084806-21d07f0c-me.jpg)
 
+
+
+# Rowing note24
+
+「大丈夫　コンパスなくても　いけそうだ」
+
+![20251215kamome-ataka](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084942-6a9ac197-me.jpg)
+
+
