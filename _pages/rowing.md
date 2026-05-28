@@ -419,3 +419,19 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 ![20251215kamome-ataka](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084942-6a9ac197-me.jpg)
 
 
+
+# Rowing note25
+
+「白い光のなーかに・・・🎵」
+小さい声で歌った。
+
+後ろのほうに一人でいた子牛が近づいてきた。
+
+Phoenix!
+
+![20260522berge-sonne](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525085033-317cbe75-me.jpg)
+
+
+
+
+
