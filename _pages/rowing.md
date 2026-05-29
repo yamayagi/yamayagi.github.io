@@ -433,5 +433,9 @@ Phoenix!
 
 
 
+# Rowing note26
 
+「あははははっ　しっぽで頭　なでてるよ」
+
+![20260524kuh](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525085119-3e5de0df-me.jpg)
 
