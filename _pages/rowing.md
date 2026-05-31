@@ -439,3 +439,11 @@ Phoenix!
 
 ![20260524kuh](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525085119-3e5de0df-me.jpg)
 
+
+
+# Rowing note27
+
+「わき水で　牛乳冷やして　ひと休み」
+
+![20260525milch](https://piwigo.schickl.de/i.php?/upload/2026/05/26/20260526180135-45505e6d-me.jpg)
+
