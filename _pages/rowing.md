@@ -447,3 +447,8 @@ Phoenix!
 
 ![20260525milch](https://piwigo.schickl.de/i.php?/upload/2026/05/26/20260526180135-45505e6d-me.jpg)
 
+
+
+# Rowing note28
+
+「えっ、本当？　あの日の少年　「こんにちは！」」
