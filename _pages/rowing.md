@@ -452,3 +452,11 @@ Phoenix!
 # Rowing note28
 
 「えっ、本当？　あの日の少年　「こんにちは！」」
+
+
+
+# Rowing note29
+
+「朝日あび　元気なさなえ　今日もここ！」
+
+![20260526geierwand](https://piwigo.schickl.de/i.php?/upload/2026/05/26/20260526180221-4990b2c5-me.jpg)
