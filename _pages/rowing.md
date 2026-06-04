@@ -528,3 +528,19 @@ Phoenix!
 午後の海外遠足・・・？！
 
 ![20260527geistalklamm](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601084928-58645e82-me.jpg)
+
+
+
+# Rowing note31
+
+「花一輪　風にゆられて　涼しそう！」
+
+「気持ちいー！　水の恵みに　ありがとう」
+
+「だんだんと　森の牛たち　せまってきた・・・」
+
+「リーーーン　初めて鳴らした　ベルの音」
+
+![20260529geierwand-blumen](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601085019-459b158f-me.jpg)
+
+
