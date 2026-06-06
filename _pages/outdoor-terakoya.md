@@ -9,7 +9,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2026/06/06/20260606150344-5e
 
 Natur erleben. Gemeinsam unterwegs sein.
 
-Outdoor terakoya ist eine kleine Auszeit un der Natur.
+Outdoor terakoya ist eine kleine Auszeit in der Natur.
 
 Wir gehen auf einfachen und sicheren Wegen durch die Tiroler Landschaft und nehmen uns Zeit für das, was uns unterwegs begegnet.
 
