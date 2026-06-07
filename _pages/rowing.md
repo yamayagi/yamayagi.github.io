@@ -547,3 +547,16 @@ Phoenix!
 ![20260530morgensonne](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601085108-22b77ce9-me.jpg)
 
 
+# Rowing note33
+
+「水の音　静かに聴こえる　朝がすき」
+
+「牛さんの　はく息白い　今日の朝」
+
+「勇気ある　鳥さんどこへ　余裕あるぅ・・・」
+
+「牛さんの　目玉にうつる　じぶん・・・」
+
+「あたたかい　朝日をあびて　目をとじる」
+
+![20260531vogel-kuh](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601085148-b8a3f1b9-me.jpg)
