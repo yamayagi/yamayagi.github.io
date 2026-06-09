@@ -616,4 +616,4 @@ Phoenix!
 
 ・　山岳ハイキングガイド
 
-![20260602geierwand-kifer]()
+![20260602geierwand-kifer](https://piwigo.schickl.de/i.php?/upload/2026/06/09/20260609115419-96c19ee7-me.jpg)
