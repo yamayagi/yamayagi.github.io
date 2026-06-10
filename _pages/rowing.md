@@ -620,7 +620,7 @@ Phoenix!
 
 
 
-# Rowing note35 「　Phoenix　」
+# Rowing note35 「Phoenix」
 
 土砂降りだ。
 牛乳を買いに行くために、外にでる。
