@@ -671,3 +671,28 @@ Phoenix!
 こんなのも書けるようになってきた。
 
 ![20260603schwarzkuh](https://piwigo.schickl.de/i.php?/upload/2026/06/09/20260609120327-156d4141-me.jpg)
+
+
+
+# Rowing note36 「のんびり　と　Geierwandführe und Inntal Sinfonie」
+
+聖体節の祝日。
+
+疲れている・・・。
+
+また、やってしまている。猛烈に「Rowing note」を書き進めたい自分がいる。
+
+とってもいいお天気だけど・・・。
+ぼーっとしよう・・・。
+
+おっ、木曜日はお休みの日だ！
+高校生の頃、木曜日、疲れて学校休みにしたことよくあった。
+
+
+夕方、やっぱりマキシミリアンと自転車漕いでる。
+Geierwandführeの１、２ザイル目、Inntal Sinfonieの３、４ザイル目。
+
+いつもの散歩・・・。
+
+![20260604chocho](https://piwigo.schickl.de/i.php?/upload/2026/06/11/20260611052148-94a1019d-me.jpg)
+
