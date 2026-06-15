@@ -795,4 +795,11 @@ Phoeniex、いなくなった・・・。
 
 
 
+# Rowing note41 「Hohlweg」
+
+![20260609hohlweg](https://piwigo.schickl.de/i.php?/upload/2026/06/12/20260612113044-f914b0f5-me.jpg)
+
+「ゆっくりと　自分の足で　空洞の道」
+
+
 
