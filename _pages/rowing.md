@@ -857,4 +857,11 @@ Phoeniex、いなくなった・・・。
 
 
 
+# Rowing note43　　「余裕」
+
+「すずめさん　ちょんちょん歩く　飛べるのに・・・」
+
+![20260611suzume](https://piwigo.schickl.de/i.php?/upload/2026/06/12/20260612113155-d7924d53-me.jpg)
+
+
 
