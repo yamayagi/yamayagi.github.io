@@ -865,3 +865,12 @@ Phoeniex、いなくなった・・・。
 
 
 
+# Rowing note44 
+
+「松の木も　風にゆれてる　自然だな・・・」
+
+「気持ちいー！　頭から（空）っぽ　岩登り」
+
+![20260611geierwand-kiefer](https://piwigo.schickl.de/i.php?/upload/2026/06/17/20260617061013-bb9dc290-me.jpg)
+
+
