@@ -618,11 +618,15 @@ Phoenix!
 
 ・　赤十字の危機介入のボランティア
 
-お金のため
-
-・　outdoor Terakoya
+すでに活動していること
 
 ・　山岳ハイキングガイド
+
+・　日本語コーチ（WIFI）
+
+これから育てていきたいこと
+
+・　outdoor Terakoya
 
 ![20260602geierwand-kifer](https://piwigo.schickl.de/i.php?/upload/2026/06/09/20260609115419-96c19ee7-me.jpg)
 
