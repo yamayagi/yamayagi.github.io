@@ -25,6 +25,8 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-217
 
 チロルをご案内できるのを楽しみにしています。
 
+日々の小さな出来事や、自然の中で感じたことを綴る「[Rowing note](https://yama.schickl.app/rowing/)」も書いています。
+
 ![mutter und kindgemse](http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102125006-1479f6a2-me.jpg)
 
 # お問い合わせは
