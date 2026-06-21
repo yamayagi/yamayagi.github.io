@@ -1,7 +1,7 @@
 ---
 title: 山に登ろう！
 subtitle: チロルの花に誘われて・・・？！
-tags: [チロル,Tirol,山歩き,bergwandern,登山,花,blumen,鳥,薬草,Kräuter,健康]
+tags: [チロル,tirol,山歩き,bergwandern,登山,花,blumen,鳥,Vogel,薬草,kräuter,健康,gesungheit]
 ---
 
 # ロープーウェイで・・・
