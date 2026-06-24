@@ -428,6 +428,12 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 森のわすれな草・・・。ドイツ語直訳「私のこと忘れないで！」。
 
 
+![20260618schwarz-akelei](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180528-c7fe8645-me.jpg)
+
+シュヴァルツ　アケライ 　(Schwarze Akelei)
+
+カルヴェンデル 　2026年6月18日 (Karwendel 18.Juni.2026)
+
 
 # チロルの薬草（ハーブ）
 
