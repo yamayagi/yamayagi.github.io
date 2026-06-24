@@ -196,6 +196,12 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 蝶々は、日本語だと「クモマツマキチョウ」。ドイツ語では「Aurorafalter」
 
 
+![20260618gefleckte-kuckucksblume](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180631-05c51c40-me.jpg)
+
+ゲフレックテ　クックックスブルーメ 　(Gefleckte Kuckucksblume)
+
+カルヴェンデル 　2026年6月18日 (Karwendel 18.Juni.2026)
+
 
 # チロルの薬草（ハーブ）
 
