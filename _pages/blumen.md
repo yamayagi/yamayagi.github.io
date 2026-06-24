@@ -710,7 +710,6 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 ノルドケッテ　2024年8月7日 (Nordkette 7.August.2024)
 
 
-
 ![20240705alpenberghaehnlein](https://piwigo.schickl.de/i.php?/upload/2024/07/24/20240724092852-203fc21d-me.jpg)
 
 アルペン-ベルクヘェンライン 　(Alpen-Berghähnlein)
@@ -870,6 +869,13 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 ふきのとうの花。
 
 ハイミング　2026年3月29日 (Haiming  29.März.2026)
+
+
+![20260623echte-kamille](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180404-6b466c79-me.jpg)
+
+エヒテ　カミーレ (Echte Kamille)
+
+オッツタール　2026年6月23日 (Ötztal 23.Juni.2026)
 
 
 # チロルの薬草（ハーブ）
