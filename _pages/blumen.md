@@ -891,7 +891,7 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 
 タウプネッセル (Taubnessel)
 
-オェッツタール　アルペン　2026年4月12日 (Ötztal Alpen 12.April.2026)
+オェッツタール　2026年4月12日 (Ötztal 12.April.2026)
 
 若い葉っぱは、サラダに使えます！
 他にも歩いている途中で困った、そんな時、こんな風に・・・。痛みのあるところ、日焼けしたところ、棘の刺さったところへ。
@@ -945,6 +945,13 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 ドイツ語の名前を直訳すると・・・。「狼のミルク」だ？！
 
 インスブルック　2023年5月14日 (Innsbruck 14.Mai.2023)
+
+
+![20260618sterndolde](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180640-548d538b-me.jpg)
+
+シュテルンドルデ (Sterndolde)
+
+カルヴェンデル　2026年6月18日 (Karwendel 18.Juni.2026)
 
 
 ![20260622moschus-steinbrech](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180323-47605e5c-me.jpg)
