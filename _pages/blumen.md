@@ -934,6 +934,13 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 インスブルック　2023年5月14日 (Innsbruck 14.Mai.2023)
 
 
+![20260622moschus-steinbrech](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180323-47605e5c-me.jpg)
+
+モシュス-シュタインブレッヒ (Moschus-Steinbrech)
+
+ノルドケッテ　2026年6月22日 (Nordkette 22.Juni.2026)
+
+
 # チロルの薬草（ハーブ）
 
 ![20260418spitz-wegrich](https://piwigo.schickl.de/i.php?/upload/2026/04/21/20260421113936-94a4014f-me.jpg)
