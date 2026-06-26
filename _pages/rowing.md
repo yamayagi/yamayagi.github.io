@@ -1062,3 +1062,15 @@ Phoenix、いた・・・。
 地球に優しく、宇宙に優しく、みんなにやさしく・・・。
 
 ![20260615kiefer-mauersegel](https://piwigo.schickl.de/i.php?/upload/2026/06/17/20260617154129-d2d23dc0-me.jpg)
+
+
+
+# Rowing note51
+
+![20260616rotebeer](https://piwigo.schickl.de/i.php?/upload/2026/06/17/20260617154213-b432eb55-me.jpg)
+
+「たちどまる　赤い実みつけた　これなあに？」
+
+![20260616ishi-koge](https://piwigo.schickl.de/i.php?/upload/2026/06/17/20260617154240-14720b60-me.jpg)
+
+「ここちよい　水音（みずおと）聴（き）いてる　石の苔（こけ）」
