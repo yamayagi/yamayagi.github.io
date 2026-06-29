@@ -689,7 +689,7 @@ Phoenix!
 
 
 
-# 36 のんびり　と　Geierwandführe und Inntal Sinfonie
+# 36 のんびりとGeierwandführe und Inntal Sinfonie
 
 聖体節の祝日。
 
@@ -1077,7 +1077,7 @@ Phoenix、いた・・・。
 
 
 
-# 52　さくらんぼが座った？！
+# 52 さくらんぼが座った？！
 
 夕方、日本語コーチのために列車に乗ってシュヴァーツ（Schwaz）へ。
 
