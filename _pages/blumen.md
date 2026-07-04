@@ -921,6 +921,20 @@ Fersen-Schaumkresse (フェルゼン-シャウムクレッセ)
 オッツタール　2026年6月23日 (Ötztal 23.Juni.2026)
 
 
+![20260630aipen-mutterwurz](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160649-68d61a5c-me.jpg)
+
+アルペン-ムッターヴルツ (Aipen-Mutterwurz)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
+
+![20260630meisterwurz](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160802-802856e3-me.jpg)
+
+マイスターヴルツ (Meisterwurz)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
+
 # チロルの薬草（ハーブ）
 
 ![20260412taubnessel](https://piwigo.schickl.de/i.php?/upload/2026/04/13/20260413130847-a653d14d-me.jpg)
