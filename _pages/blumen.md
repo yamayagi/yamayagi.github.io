@@ -630,6 +630,12 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 ロッペン　2026年4月27日 (Roppen 27.April.2026)
 
 
+![20260630alpen-goldrute](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160641-60c2ec60-me.jpg)
+
+アルペン-ゴールドルテ (Alpen-Goldrute)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
 
 # 白
 
