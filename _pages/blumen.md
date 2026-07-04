@@ -637,6 +637,28 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
 
 
+![20260630berg-nelkenwurz](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160737-c6d3c327-me.jpg)
+
+ベルク-ネルケンヴルツ (Berg-Nelkenwurz)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
+
+![20260630zottigehabichtskraut](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160744-b3ef893c-me.jpg)
+
+トゥォッティゲ　ハビヒツクラウト　(Zottige Habichtskraut)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
+
+![20260630gamswurz](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160828-d6256856-me.jpg)
+
+ガムスヴルツ　(Gamswurz)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
+
+
 # 白
 
 ![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
