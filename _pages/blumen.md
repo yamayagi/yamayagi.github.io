@@ -435,6 +435,14 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 カルヴェンデル 　2026年6月18日 (Karwendel 18.Juni.2026)
 
 
+![20260630ziesblaettige-teufelskralle](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704160754-ef3de80b-me.jpg)
+
+チースブレッティゲ-トイフェルスクラーレ　(Ziesblättrige-Teufelskralle)
+
+トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
+
+
+
 # チロルの薬草（ハーブ）
 
 ![20260418Veilchen](https://piwigo.schickl.de/i.php?/upload/2026/04/21/20260421113518-acb31057-me.jpg)
