@@ -1350,3 +1350,15 @@ WIFIの日本語教室へ
 さぁ、また新しい出発・・・？！
 
 ![20260624himmel-berge-wolken](https://piwigo.schickl.de/i.php?/upload/2026/07/11/20260711104218-2021f90d-me.jpg)
+
+
+
+# 64 「Richtung stimmt!」
+
+朝・・・。
+
+自転車漕いで、岩登って、牛にあって、森のいちごを食べた。
+
+Richtung stimmt!
+
+![20260625walderdebeer](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704113649-423b096b-me.jpg)
