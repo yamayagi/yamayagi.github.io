@@ -1362,3 +1362,23 @@ WIFIの日本語教室へ
 Richtung stimmt!
 
 ![20260625walderdebeer](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704113649-423b096b-me.jpg)
+
+
+
+# 65 「respect!」
+
+朝、牛乳を買いに自転車を走らせる。
+
+「朝日あび　自分のかげみる　動いてる・・・？！」
+
+漕ぎながら、浮かんだのは・・・、
+
+「朝日あび　自分のかげみて　にたにたにた・・・」
+
+![20260626nanamematsu](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704113721-e78839cc-me.jpg)
+
+「ななめでも　生きてる松の木　respect!」
+
+![20260626brombeer-wasser](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704113742-174b7eb8-me.jpg)
+
+「いい環境？　水辺で育つ　Brombeer」
