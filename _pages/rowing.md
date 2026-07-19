@@ -1508,7 +1508,7 @@ Richtung stimmt!
 
 
 
-# 71 好きなもの
+# 71 好きなもの "Was man mag"
 
 WIFIの日本語クラスで・・・。
 
@@ -1522,4 +1522,19 @@ WIFIの日本語クラスで・・・。
 
 みんな、好きなものは、どんどん出てくるけど、好きじゃないもの考えるのに時間がかかる・・・？！
 
+"Was man mag"
+
+Im Japanischkurs bei WIFI...
+
+Wir sprechen "was ich mag" und "was ich nicht mag".
+
+Melina sagt:
+
+"Was ich nicht mag? Hm... gar nicht so einfach."
+
+"Ja, mir geht´s genauso!", sage ich.
+
+Was wir mögen, fällt uns sofort ein.
+
+Aber wenn wir überlegen, was wir nicht mögen, brauchen wir etwas Zeit...
 
