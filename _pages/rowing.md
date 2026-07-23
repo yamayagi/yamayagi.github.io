@@ -1577,3 +1577,17 @@ Oh, wer ist da?
 Leckere Blätter
 
 kleine Raupe
+
+
+
+# 74 Umkehr
+
+「青えんて（Ente(かも)）　空を眺めて　引き返す」
+
+![20260701himmelvongeierwand](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704114221-d542cd90-me.jpg)
+
+Eine blaue Ente
+
+schaut den Himmel an
+
+kehrt um
