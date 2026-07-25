@@ -1629,3 +1629,8 @@ kehrt um
 
 ![20260702stein](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704114149-ff0f55d8-me.jpg)
 
+Mitten in Tosen
+
+ganz allein
+
+ein Stein
