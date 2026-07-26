@@ -1,7 +1,7 @@
 ---
 layout: pageb
-title: Hüttenwanderung
-description: 山小屋に泊まる
+title: Hütten(山小屋)
+description: 山小屋(Hütten)に泊まる
 header_img: https://piwigo.schickl.de/i.php?/upload/2025/11/01/20251101073359-4304a7c2-me.jpg
 ---
 
@@ -21,7 +21,7 @@ Klicken Sie einfach auf das E-Mail-Symbol unten und kontaktieren Sie mich ganz u
 ![20230701Anharterhütte](https://piwigo.schickl.de/i.php?/upload/2026/05/14/20260514121833-b23766db-me.jpg)
 
 
-# チロルの山の山小屋に泊まってみませんか？
+# チロルの山小屋に泊まってみませんか？
 
 チロルの山を歩いて、山の小屋に泊まる旅へ・・・。
 
