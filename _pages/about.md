@@ -5,7 +5,7 @@ description: über mich
 header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-21769295-me.jpg
 ---
 
-# 私について  über mich
+# 私について
 
 ![It is me](https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103056-4dad627d-me.jpg)
 
@@ -13,12 +13,14 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201114-217
 
 私は、山歩きガイドのさなえです。オーストリア、チロル在住の日本人女性としては初めてのオーストリア公認山岳ハイキングガイドです。
 
+# über mich
+
 Hallo!
 
 Ich bin Sanae – eine Bergwanderführerin in Tirol.
 Als erste japanische Frau mit Wohnsitz in Österreich habe ich die staatliche Ausbildung zur österreichischen Bergwanderführerin abgeschlossen.
 
-# 私のモットー　 meine Motto
+# 私のモットー　
 
 私のモットー、３つの”あ”。
 
@@ -31,6 +33,8 @@ Als erste japanische Frau mit Wohnsitz in Österreich habe ich die staatliche Au
 チロルをご案内できるのを楽しみにしています。
 
 日々の小さな出来事や、自然の中で感じたことを綴る「[Rowing note](https://yama.schickl.app/rowing/)」も書いています。
+
+# mein Motto
 
 Sicherheit. Geborgenheit. Mit Herz.
 
@@ -46,13 +50,15 @@ Außerdem schreibe ich den „[Rowing note](https://yama.schickl.app/rowing/)“
 
 ![mutter und kindgemse](http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102125006-1479f6a2-me.jpg)
 
-# お問い合わせは Kontakt
+# お問い合わせは 
 
 お問い合わせは、メールでお願いいたします。（ホームの下の手紙のマークをクリックしてください。）
 
 下の写真は、私の大好きな場所です。
 
 耳の長いチロルの羊に囲まれて、寝転がって、空を眺めてみませんか？
+
+# Kontakt
 
 Wenn Sie Fragen haben oder eine Wanderung planen möchten, schreiben Sie mir bitte eine E-Mail.
 (Klicken Sie einfach auf das Briefsymbol unten auf der Startseite.)
