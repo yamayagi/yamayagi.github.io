@@ -1363,6 +1363,11 @@ Richtung stimmt!
 
 ![20260625walderdebeer](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704113649-423b096b-me.jpg)
 
+Am Morgen...
+
+Mit dem Fahrrad unterwegs, am Felsen geklettert, Kühen begegnet und Walderdbeeren genascht.
+
+Richtung stimmt!
 
 
 # 65 respect!
