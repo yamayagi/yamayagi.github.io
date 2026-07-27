@@ -404,6 +404,11 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 
 ![20260521waldbaumlaeufer](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084729-a187dbaa-me.jpg)
 
+Wer bist du?
+
+zu Hause
+
+finde ich dich heraus
 
 
 # Rowing note23
