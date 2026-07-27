@@ -689,7 +689,7 @@ Phoenix!
 
 
 
-# 36 のんびりとGeierwandführe und Inntal Sinfonie
+# 36 ぼーっと・・・
 
 聖体節の祝日。
 
@@ -1384,10 +1384,21 @@ Richtung stimmt!
 
 「ななめでも　生きてる松の木　respect!」
 
+schräg...
+
+doch lebt die Kiefer
+
+Respekt!
+
 ![20260626brombeer-wasser](https://piwigo.schickl.de/i.php?/upload/2026/07/04/20260704113742-174b7eb8-me.jpg)
 
 「いい環境？　水辺で育つ　Brombeer」
 
+guter Platz?
+
+am Fluss wächst die
+
+Brombeere
 
 
 # 66 さくらんぼ　と　森のいちご
