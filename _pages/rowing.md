@@ -210,6 +210,11 @@ Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で
 
 ![20260508eidechs](https://piwigo.schickl.de/i.php?/upload/2026/05/14/20260514173911-349aefc0-me.jpg)
 
+eine Pause
+
+die Eidechse atmet
+
+und klettert
 
 
 # Rowing note7
