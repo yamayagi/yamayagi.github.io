@@ -1791,3 +1791,8 @@ ein Stein
 
 ![20260704hachi](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727152616-8c833806-me.jpg)
 
+Glockenkland
+
+Resonanz...
+
+Stille...
