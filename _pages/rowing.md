@@ -1854,3 +1854,18 @@ Rowing　note61「ハーモニカ　ふるさと吹いて　うるうるっ・�
 最後・・・。
 
 「暑かったけれどもどちらもいいトレーニングが出来た。」
+
+
+
+# Rowing note82 
+
+「空の色　なんとも言えない　自然の色・・・」
+
+![20260710himmel-geierwand](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727152724-74ea8a53-me.jpg)
+
+die Farbe des Himmels
+
+unbeschreiblich...
+
+die Farbe der Natur
+
