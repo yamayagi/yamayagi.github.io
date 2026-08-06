@@ -17,11 +17,11 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02
 
 「Wanderrudern」　とは・・・？？？
 
-Rowingボート（[ギックボート](https://swiftracingjapan.com/gigs/)）で水上をのんびり歩くような速さでいきます。　
+ボートで水上をのんびり歩くような速さでいきます。　
 
 ![gigboot](https://piwigo.schickl.de/i.php?/upload/2024/04/25/20240425130548-21ab645a-me.jpg)
 
-[ギックボート](https://swiftracingjapan.com/gigs/) は、上の写真のような日本のナックルフォアのようなボート。　日本のナックルフォアは、日本にだけあるボート。[ギックボート](https://swiftracingjapan.com/gigs/)は、漕ぎ手が３人、４人、６人、８人にコックス、いろんな大きさがある。
+上の写真は、[ギックボート](https://swiftracingjapan.com/gigs/) 、日本のナックルフォアのようなボート。[ギックボート](https://swiftracingjapan.com/gigs/)は、漕ぎ手が３人、４人、６人、８人にコックス、いろんな大きさがあって、両手漕ぎ。
 
 上の写真は、結婚式の教会から新郎・新婦がボートでボートクラブまで来るところ・・・。　（結婚式なので、これは特別一人漕ぎで、新婦がコックス。）
 
