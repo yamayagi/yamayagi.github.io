@@ -2042,3 +2042,18 @@ WIFI日本語クラス最終回。
 えっ？
 
 駐車場で、ぎゅーってハグされて、さよなら・・・。
+
+
+WIFI-Japanischkurs, letzte Stunde.
+
+Zum Schluss :
+
+"Was hat euch Spaß gemacht?"
+
+"Dich zu beobachten hat mir Spaß gemacht."
+
+Was?
+
+Hä?
+
+Auf dem Parkplatz eine ganz feste Umarmung - und tschüss...
