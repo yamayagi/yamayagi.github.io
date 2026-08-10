@@ -2070,7 +2070,19 @@ Auf dem Parkplatz eine ganz feste Umarmung - und tschüss...
 
 「誰のだろう？　小さな羽を　見つけたよ」
 
+wenn gehört sie wohl?
+
+eine kleine Feder
+
+ich habe sie gefunden
+
 「裏がえす　ちょっとわかった　気がするね」
+
+umgedreht
+
+ein bisscjen verstanden
+
+glaube ich
 
 ![20260714flüge](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153111-b38cbb09-me.jpg)
 
