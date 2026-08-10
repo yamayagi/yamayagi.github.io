@@ -1258,6 +1258,11 @@ Inntal Sinfonieの４ザイル目を、10月だったか、11月だったか以�
 
 「かわいいね　塩味おいしい？　バッタさん？」
 
+süß, oder?
+
+schmeckt das Salz?
+
+Heuschrecke?
 
 
 # Rowing note58
