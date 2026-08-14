@@ -2160,3 +2160,6 @@ Phoenix、後ろで静かに干し草食べてる。
 水の温度が高いのかな・・・？
 
 ![20260715dampf](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153148-e58c024f-me.jpg)
+
+
+
