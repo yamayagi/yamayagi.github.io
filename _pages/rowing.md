@@ -2453,3 +2453,17 @@ Rowing noteをいつか本にしたい・・・。
 いよいよ、いつもの山・・・。
 
 ![20260720seefelderspitze-unter](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153627-160314e1-me.jpg)
+
+
+
+# 106 Pause
+
+「立ち止まる　いつもの道で　川と石・・・」
+
+![20260721fluss-stein](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153708-2a55b770-me.jpg)
+
+Ich halte inne
+
+Am vertrauten Weg
+
+Fluss und Stein...
