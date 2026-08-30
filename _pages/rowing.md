@@ -1,6 +1,6 @@
 ---
 layout: pageb
-title: Rowing note
+title: Rowing
 description: Wandern -一期一会@Tirol-
 header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02829317-me.jpg
 ---
@@ -2467,3 +2467,24 @@ Ich halte inne
 Am vertrauten Weg
 
 Fluss und Stein...
+
+
+
+# 107 ゆらゆら・・・
+
+なんとなく・・・。
+
+ブランコ。
+
+どんっ！
+
+ゆらゆら・・・。
+
+止まった・・・。
+
+水の音を聴いて、空を見上げて、優しい緑の葉っぱがゆれて・・・。
+ねむってしまいそう・・・？！
+
+今日は、日陰が心地いい・・・。
+
+![20260721wasser](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153746-dfddbddc-me.jpg)
