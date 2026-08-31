@@ -2488,3 +2488,9 @@ Fluss und Stein...
 今日は、日陰が心地いい・・・。
 
 ![20260721wasser](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153746-dfddbddc-me.jpg)
+
+
+
+# Rowing note108
+
+「がさがさがさ　白いおなかは　りすさんだ！」
