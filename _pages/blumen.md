@@ -669,6 +669,15 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 # 白
 
+![20260822stern-steinbrech](https://piwigo.schickl.de/i.php?/upload/2026/08/31/20260831115734-712b03cc-me.jpg)
+
+シュテルン-シュタインブレッヒ (Stern-Steinbrech)
+
+法的に保護されています！
+
+オッツタール アルペン　2026年8月22日 (Ötztal Alpen 22.August.2026)
+
+
 ![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
 
 Moosauge (モースアウゲ)
