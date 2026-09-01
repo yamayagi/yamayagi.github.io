@@ -673,9 +673,18 @@ Alpen-Goldstern (アルペン-ゴールドシュテルン)
 
 シュテルン-シュタインブレッヒ (Stern-Steinbrech)
 
-法的に保護されています！
+法的に保護されています。
 
 オッツタール アルペン　2026年8月22日 (Ötztal Alpen 22.August.2026)
+
+
+![20260818tirolerwindröschen](https://piwigo.schickl.de/i.php?/upload/2026/09/01/20260901163215-bcfe0be3-me.jpg)
+
+チロラー　ヴィントロッシェン (Tiroler Windrüschen)
+
+直訳すると「チロルの風のばらちゃん」。法的に保護されています。
+
+カルス　アム　グロースグロックナー　2026年8月18日 (Kals am Großglockner 18.August.2026)
 
 
 ![20250703moosauge](https://piwigo.schickl.de/i.php?/upload/2025/07/19/20250719151113-c58d5032-me.jpg)
