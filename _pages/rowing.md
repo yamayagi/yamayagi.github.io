@@ -2508,3 +2508,11 @@ Fluss und Stein...
 ![20260725sonnne](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153820-d5e68d41-me.jpg)
 
 ありがとう。
+
+
+
+# 110 なめくじ
+
+自転車、びゅーん！
+
+「うんちかと　思ってよけたら　なめくじだ！」
