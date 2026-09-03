@@ -2530,3 +2530,5 @@ Fluss und Stein...
 「最近は　とかげも子ども　家の中・・・？」
 
 ![20260725eitechsmini](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153850-3613490a-me.jpg)
+
+Indoor-Eidechse?!
