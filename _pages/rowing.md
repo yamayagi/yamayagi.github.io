@@ -1,7 +1,7 @@
 ---
 layout: pageb
 title: Rowing
-description:〜　Wandernのすすめ　〜
+description:　Wandernのすすめ　
 header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02829317-me.jpg
 ---
 
