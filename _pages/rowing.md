@@ -1,7 +1,7 @@
 ---
 layout: pageb
 title: Rowing
-description: Wandern -一期一会@Tirol-
+description:〜　Wandernのすすめ　〜
 header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02829317-me.jpg
 ---
 
@@ -1281,7 +1281,7 @@ Heuschrecke?
 
 
 
-# Rowing note59
+# 59 幸せ・・・？
 
 朝飯前の岩登り。
 
