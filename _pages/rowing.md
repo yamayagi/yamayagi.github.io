@@ -2555,10 +2555,30 @@ Indoor-Eidechse?!
 
 昨日の青いとんぼの写真。
 
-あぁ、やっぱりだめかぁ・・・。おっ！
+あぁ、やっぱりだめかぁ・・・。
+
+おっ！
 
 やった！
 
 最後の一枚、撮れてた。
 
 ![20260725aoitonbo](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153919-250f04b6-me.jpg)
+
+
+
+# 113 雲のおかげ "Dank der Wolken"
+
+朝飯前の岩登り。
+
+「雨上がり　雲のおかげで　光あり！」
+
+うぁっ！
+
+![20260727wolken-licht](https://piwigo.schickl.de/i.php?/upload/2026/07/27/20260727153956-c480f406-me.jpg)
+
+Nach dem Regen
+
+Dank der Wolken
+
+Licht...
