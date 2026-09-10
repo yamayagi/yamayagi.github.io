@@ -2582,3 +2582,17 @@ Nach dem Regen
 Dank der Wolken
 
 Licht...
+
+
+
+# 114 空
+
+「今日の空　すいこまれそうな　青色だぁ・・・」
+
+![20260728blau-himmel](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102008-b9a2f12f-me.jpg)
+
+Der Himmel heute
+
+fast zum Hineinfallen...
+
+blau...
