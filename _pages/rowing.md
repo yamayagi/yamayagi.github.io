@@ -2596,3 +2596,17 @@ Der Himmel heute
 fast zum Hineinfallen...
 
 blau...
+
+
+
+# 115 くもの巣
+
+「木もれ日に　光るくもの巣　Wahnsinn!」
+
+![20260728kumonosu](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102039-479a3c12-me.jpg)
+
+Im Sonnenlicht
+
+ein Spinnennetz
+
+Wahnsinn!
