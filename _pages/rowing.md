@@ -105,7 +105,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02
 ![20260430Ötzbachbrücke](https://piwigo.schickl.de/i.php?/upload/2026/05/02/20260502111010-543457ac-me.jpg)
 
 
-# Rowing note2
+# 2 無次元・・・
 
 ![20260427himmelvogel](https://piwigo.schickl.de/i.php?/upload/2026/05/02/20260502111950-65e01288-me.jpg)
 
