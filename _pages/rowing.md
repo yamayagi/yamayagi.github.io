@@ -1269,11 +1269,29 @@ Heuschrecke?
 
 「あむぜん（Amsen）が　さなえ見てる　見られてる？！」
 
+Amsen
+
+Amsen sieht Sanae
+
+wer sieht wen?!
+
 「ハイポーズ！　カメラかまえる　蜂が来た！」
+
+"Bitte lächeln!"
+
+ich halte die Kamera
+
+Biene gekommen!
 
 ![20260620hachi-blumen](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623181215-48c55e31-me.jpg)
 
 「悠々と　鳥さんひとり　野原いく・・・」
+
+Gemütlich
+
+ein Vogelchen allein 
+
+geht über die Wiese
 
 ![20260620tori](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623181240-0abe1ff9-me.jpg)
 
