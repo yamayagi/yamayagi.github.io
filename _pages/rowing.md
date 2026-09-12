@@ -1250,7 +1250,7 @@ Inntal Sinfonieの４ザイル目を、10月だったか、11月だったか以�
 
 
 
-# Rowing note57
+# 57 おいしい・・・？
 
 ![20260618batta](https://piwigo.schickl.de/i.php?/upload/2026/06/23/20260623180957-1a5a4ae1-me.jpg)
 
