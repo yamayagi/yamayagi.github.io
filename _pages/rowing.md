@@ -2614,3 +2614,20 @@ Im Sonnenlicht
 ein Spinnennetz
 
 Wahnsinn!
+
+
+
+
+# 116 木の涙・・・？
+
+「うわぁ！」
+
+「おぉ、血を流してる！」
+
+匂いをくんくん・・・。
+
+木の涙・・・？
+
+根っこにもっていた何かが、どくどくと流れている・・・？
+
+![20260728kinonamida](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102107-9db47ada-me.jpg)
