@@ -2649,3 +2649,25 @@ Wahnsinn!
 根っこにもっていた何かが、どくどくと流れている・・・？
 
 ![20260728kinonamida](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102107-9db47ada-me.jpg)
+
+
+
+# 117 松脂の粘力！
+
+朝飯前の岩登り。
+
+おっ、根っこが怪我してる・・・？！
+
+一粒の松脂。
+
+触ってみた・・・。
+
+すごい粘力！
+
+![20260730matuyaninonennryoku](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102201-e0a3011e-me.jpg)
+
+ein Tropfen Harz
+
+berührt
+
+wie klebrig!
