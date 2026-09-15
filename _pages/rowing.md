@@ -2722,3 +2722,18 @@ wie klebrig!
 帰りに自転車のところで、自分のシャツ、頭に被せてみた。
 
 蜂は、こんな感じだったのかなぁ・・・？？？
+
+
+
+# 119 月
+
+「月みれば　いやいや月に　みられてる・・・」
+
+![20260731mond](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102256-a1e93725-me.jpg)
+
+schaue dem Mond
+
+nein nein...
+
+der Mond schaut mich an
+
