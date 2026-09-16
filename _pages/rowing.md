@@ -2737,3 +2737,16 @@ nein nein...
 
 der Mond schaut mich an
 
+
+
+# 120 橋
+
+「ありさんも　橋をわたって　対岸へ」
+
+![20260731ari-hashi](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102317-39825dd1-me.jpg)
+
+auch die Ameisen
+
+über die Brücke
+
+aus andere Ufer
