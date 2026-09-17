@@ -203,6 +203,15 @@ header_img: http://piwigo.schickl.de/i.php?/upload/2024/01/02/20240102201015-11c
 カルヴェンデル 　2026年6月18日 (Karwendel 18.Juni.2026)
 
 
+![20260902schmalblaettrigesweidenroeschen](https://piwigo.schickl.de/i.php?/upload/2026/09/17/20260917085204-24709d62-me.jpg)
+
+シュマールブレットリゲス　ヴァイデンロッシュェン　(Schmalblättriges Weidenröschen)
+
+サンクト・アントン　2026年9月2日　(St.Anton 2.September.2026)
+
+ドイツ語を日本語に直訳すると、「細い葉っぱの牧草地の小バラちゃん」。周りに牛がたくさんいた・・・。
+
+
 # チロルの薬草（ハーブ）
 
 ![sandthymian](https://piwigo.schickl.de/i.php?/upload/2024/07/21/20240721151103-a8f25954-me.jpg)
