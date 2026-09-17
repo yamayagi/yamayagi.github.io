@@ -2761,6 +2761,6 @@ aus andere Ufer
 
 nach dem Regen
 
-toter Berghang...
+roter Berghang...
 
 was ist das...???
