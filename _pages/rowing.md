@@ -2750,3 +2750,17 @@ auch die Ameisen
 über die Brücke
 
 aus andere Ufer
+
+
+
+# 121 赤い山肌
+
+「雨上がり　赤い山肌　それは何・・・？？？」
+
+![20260801akaizamahada](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102413-bcc9fdf7-me.jpg)
+
+nach dem Regen
+
+toter Berghang...
+
+was ist das...???
