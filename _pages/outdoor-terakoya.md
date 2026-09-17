@@ -15,6 +15,8 @@ Wir gehen auf einfachen und sicheren Wegen durch die Tiroler Landschaft und nehm
 
 Dabei entstehen ganz natürlich kleine Begegnungen mit der japanischen Sprache und Kultur.
 
+Deutsch oder Japanisch – je nach Gruppe.
+
 Kleine Gruppe (Max. 6 Personen)
 
 Teilnahmegebühr : 60 Euro pro Person
