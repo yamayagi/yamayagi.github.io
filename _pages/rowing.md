@@ -2764,3 +2764,25 @@ nach dem Regen
 roter Berghang...
 
 was ist das...???
+
+
+
+# 122 もどる水
+
+![20260802modoru-mizu](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102448-73edd531-me.jpg)
+
+丸い石を覆うように、滑らかな水が流れる。
+
+あれっ・・・。
+
+もどってくる水もある？！
+
+石のまわりで、また一つになる・・・？？？
+
+Das Wasser fließt sanft über den runden Stein.
+
+Oh...
+
+Manches Wasser kommt zurück?!
+
+Um den Stein wird es wieder eins...
