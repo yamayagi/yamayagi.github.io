@@ -2786,3 +2786,17 @@ Oh...
 Manches Wasser kommt zurück?!
 
 Um den Stein wird es wieder eins...
+
+
+
+# 123 苔
+
+「空みれば　苔と葉っぱが　ひかってる・・・！」
+
+schaue zum Himmel
+
+Moos und Blätter
+
+leuchten...!
+
+![20260802koke](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102508-7b4e2513-me.jpg)
