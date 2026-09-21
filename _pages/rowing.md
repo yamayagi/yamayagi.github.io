@@ -56,7 +56,7 @@ header_img: https://piwigo.schickl.de/i.php?/upload/2023/12/29/20231229103023-02
 
 # Wandern とは・・・？？？
 
-１. ハイキング
+１. ハイキング。
 
 ２. 目的地に向かわずのんびりと歩くこと。
 
