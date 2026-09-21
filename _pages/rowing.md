@@ -2800,3 +2800,17 @@ Moos und Blätter
 leuchten...!
 
 ![20260802koke](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102508-7b4e2513-me.jpg)
+
+
+
+124 月みれば・・・
+
+「月みれば　電線山橋（でんせんやまはし）　水流るる・・・」
+
+Schaue zum Mond
+
+Stromleitung Berg Brücke
+
+Wasser fließt...
+
+![20260804schaue-mond](https://piwigo.schickl.de/i.php?/upload/2026/09/10/20260910102543-19630a79-me.jpg)
