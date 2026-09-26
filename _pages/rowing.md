@@ -2895,3 +2895,17 @@ Emmentalerをマキシミリアン、自分、ゲアノルトの順で登った�
 ゲアノルト。
 
 ![20231217letzte-klettern-gernot](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095108-b21eac48-me.jpg)
+
+
+
+# Rowing note127
+
+![20260806hebi](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095404-89c6988a-me.jpg)
+
+「おっ誰だ？　おっとごめんね　さなえです」
+
+Oh, wer denn?
+
+Oh, Entschuldigung
+
+ich bin Sanae
