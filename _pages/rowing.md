@@ -2909,3 +2909,43 @@ Oh, wer denn?
 Oh, Entschuldigung
 
 ich bin Sanae
+
+
+
+# 128 水の姿
+
+うわあ！
+
+水蒸気がすごい！！
+
+川の水、茶色で汚い・・・。
+
+山崩れか？
+谷の奥の汚水処理場からの水のせいか・・・？？
+
+立ち止まる。
+
+葉っぱの上の宝石！
+
+水の玉・・・。
+
+水の姿・・・。
+
+Wow!
+
+So viel Wasserdamp!
+
+Das Wasser im Fluss ist braun und trüb...
+
+Ein Erdrutschen? 
+oder kommt das Wasser aus der Kläranlage im hinteren Tal...?
+
+Stehen bleiben.
+
+Juwel auf dem Blatt!
+
+Wasserkugel...
+
+Die Gestalt des Wassers...
+
+![20260807gestalt-wasser](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095431-0d89523d-me.jpg)
