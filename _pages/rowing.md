@@ -2949,3 +2949,15 @@ Wasserkugel...
 Die Gestalt des Wassers...
 
 ![20260807gestalt-wasser](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095431-0d89523d-me.jpg)
+
+
+
+# 129 水たまり・・・ "Pfütze..."
+
+「水たまり　真ん中走る　横走る」
+
+Pfütze
+
+in der Mitte fahren
+
+am Rand fahren
