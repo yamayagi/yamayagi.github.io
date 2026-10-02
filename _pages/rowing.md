@@ -2985,7 +2985,7 @@ am Rand fahren
 
 でも・・・。
 
-Rowing noteの「Richtung stimmt」「水、悠々と・・・」を読んだ。
+Rowing noteの「Richtung stimmt!」「水、悠々と・・・」を読んだ。
 
 うん、今の生き方でいこう・・・。
 
