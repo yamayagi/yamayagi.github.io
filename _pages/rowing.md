@@ -2990,3 +2990,11 @@ Rowing noteの「Richtung stimmt」「水、悠々と・・・」を読んだ。
 うん、今の生き方でいこう・・・。
 
 なんとかなる。
+
+
+
+# 131 風にゆられて・・・
+
+「ゆらゆらと　涼しい風に　ゆられてる・・・」
+
+![20260809kusa-geierwand](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095507-1daf7802-me.jpg)
