@@ -451,6 +451,14 @@ Alpen-Veilchen (アルペン-ファイルヒェン)
 トゥクサ-アルペン 2026年6月30日 (Tuxer Aipen 30.Juni.2026)
 
 
+![20261001fersen-ehrenpreis](https://piwigo.schickl.de/i.php?/upload/2026/10/02/20261002103036-93166ef7-me.jpg)
+
+フェルゼン-エーレンプライス　(Felsen-Ehrenpreis)
+
+オェッツターラー アルペン 　2026年10月1日 (Ötztaler Alpen 1.Oktober.2026)
+
+本によると、６月から８月にかけて咲きます。・・・が、10月、一輪、静かに咲いていました。毒があります。
+
 
 # チロルの薬草（ハーブ）
 
