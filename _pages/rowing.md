@@ -2998,3 +2998,9 @@ Rowing noteの「Richtung stimmt!」「水、悠々と・・・」を読んだ�
 「ゆらゆらと　涼しい風に　ゆられてる・・・」
 
 ![20260809kusa-geierwand](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095507-1daf7802-me.jpg)
+
+
+
+# 132 [一期一会@Titol](https://yama.schickl.app/)
+
+
