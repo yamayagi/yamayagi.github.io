@@ -215,11 +215,17 @@ die Eidechse atmet
 und klettert
 
 
-# Rowing note7
+# 7 緑と雲と山と・・・
 
 「新緑と　大きい雲と　白い山」
 
 ![20260512geierwand](https://piwigo.schickl.de/i.php?/upload/2026/05/14/20260514173952-6ad13316-me.jpg)
+
+frisches Grün
+
+große Wolken
+
+weiße Berge
 
 
 
