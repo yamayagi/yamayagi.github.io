@@ -329,11 +329,17 @@ Blumenfelder
 
 
 
-# Rowing note13
+# 13 ケシの花
 
 「おいしいの？　体（からだ）いっぱい　ケシの花」
 
 ![20260516mohn-biene](https://piwigo.schickl.de/i.php?/upload/2026/05/17/20260517084543-2f2d6fe0-me.jpg)
+
+Schmekt das?
+
+mit voller Kraft
+
+in den Mohnblumen
 
 
 
