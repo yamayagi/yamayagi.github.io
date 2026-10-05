@@ -3072,3 +3072,17 @@ Rowing noteの「木の涙・・・？」
 今日の雲は、うろこ雲だった・・・。
 
 ![20260811morgen-sonne](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095635-d030d6af-me.jpg)
+
+
+
+# 134 松脂（まつやに）
+
+「松脂を　触って眺めて　おぉ、きれい・・・」
+
+![20260811matsuyani](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095703-ac282305-me.jpg)
+
+den Harz
+
+berühren, schauen
+
+oh, wie schön...
