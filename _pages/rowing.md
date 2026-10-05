@@ -294,12 +294,17 @@ Blumenfelder
 
 
 
-# Rowing note11
+# 11 ごがつ雨 "Mairegen"
 
 「ごがつ雨　朝に牛さん　くしゃみする」
 
 ![20260515kuh](https://piwigo.schickl.de/i.php?/upload/2026/05/16/20260516111506-28c2292b-me.jpg)
 
+Mairegen
+
+am frühen Morgen
+
+eine Kuh niest
 
 
 # Rowing note12
