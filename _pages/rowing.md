@@ -271,7 +271,7 @@ gedankenlos mit dem Fahrrad
 Blumenfelder
 
 
-# Rowing note10
+# 10 雪解け水 "Schmelzwasser"
 
 マキシミリアンと自転車をバスの牽引車にのせて・・・。
 
@@ -289,6 +289,12 @@ Blumenfelder
 ベルリンにいる時に買ったNEW WAVEの黒いローイング用のタイツをはいていた。
 
 「雪解け水　岩にあたって　あわつぶに」
+
+Schmelzwasser
+
+trifft auf den Stein
+
+kleine Blasen
 
 帰りは、行きにバスに乗ってきた分も全部、自転車で・・・。
 
