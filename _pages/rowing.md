@@ -3091,3 +3091,50 @@ den Harz
 berühren, schauen
 
 oh, wie schön...
+
+
+
+# 135 魔女の飛行機 "Hexenflugzeug"
+
+ほうき、買った。
+
+ほうき、嬉しい！
+
+魔女のほうきだ！！
+
+うひひひひっ・・・。
+
+「嬉しいな　魔女の飛行機　ほうき買った！」
+
+朝飯前にさっそく、ほうきで家の前を掃除して、愉しかった。
+
+子どもの時、家の玄関の掃除したのを思い出した。
+
+学校の掃除時間思い出した。
+
+ほうきではいて、ちりとりでとる。
+
+愉しい・・・。
+
+"Hexenflugzeug"
+
+Beseb gekauft.
+
+Ichreue mich über den Besen!
+
+Ein Hexenbesen!!
+
+Hihihihi...
+
+「freue mich　　　Hexenflugzeug　　　Besen gekauft」
+
+Vor dem Frühstück habe ich gleich gekehrt.
+
+Als Kind habe ich den Eingang gekehrt.
+
+In der Schule war die Kehrzeit...
+
+Mit dem Besen kehren, mit dem Kehrblech aufnehmen.
+
+Schön...
+
