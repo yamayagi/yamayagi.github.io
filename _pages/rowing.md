@@ -3116,8 +3116,6 @@ oh, wie schön...
 
 愉しい・・・。
 
-"Hexenflugzeug"
-
 Beseb gekauft.
 
 Ichreue mich über den Besen!
