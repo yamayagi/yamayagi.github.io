@@ -3142,3 +3142,29 @@ Mit dem Besen kehren, mit dem Kehrblech aufnehmen.
 
 Schön...
 
+
+
+# 136 赤い岩・・・？！ "Der rote Felsen...?!"
+
+今日の空は赤い・・・。
+
+橋の上から写真撮りたかったけれども、そのまま漕ぎ続けた。
+
+おぉ、岩が赤いじゃない！
+
+写真！！
+
+・・・写真じゃ、伝わらないかなぁ・・・。
+
+Heute ist der Himmel rot...
+
+Ich wollte von der Brücke aus ein Foto machen, aber ich fuhr einfach weiter.
+
+Oh, die felsen sind ja rot!
+
+Ein Foto!!
+
+...ob man das auf dem Foto überhaupt sehen kann...?
+
+![20260812rote-felsen](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095827-e20dbe34-me.jpg)
+
