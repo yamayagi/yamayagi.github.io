@@ -362,12 +362,17 @@ Mohnblumen
 
 
 
-# Rowing note15
+# 15 みどり
 
 「おっ、涼しい　明るい緑　松の緑」
 
 ![20260518geierwand-einstieg](https://piwigo.schickl.de/i.php?/upload/2026/05/20/20260520112609-a4d31ac5-me.jpg)
 
+Oh, kühl
+
+helles Grün
+
+Grün der Kiefer
 
 
 # Rowing note16
