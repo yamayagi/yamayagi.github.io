@@ -381,6 +381,11 @@ Grün der Kiefer
 
 ![20260519pitztal](https://piwigo.schickl.de/i.php?/upload/2026/05/20/20260520135414-b365dbb1-me.jpg)
 
+Wasserrauschen
+
+Kuckucksruf
+
+[großer Schmetterling](https://yama.schickl.app/2026/05/31/Tirol.html)
 
 
 # 17 静かな小川
