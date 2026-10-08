@@ -3173,3 +3173,40 @@ Ein Foto!!
 
 ![20260812rote-felsen](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095827-e20dbe34-me.jpg)
 
+
+
+# 137 まっすぐ・・・ "gerade..."
+
+牛乳を買いに自転車を走らせる。
+
+「うわっ不思議　自然の線か　まっすぐだ・・・」
+
+oh, Wunder!
+
+eine Gerade der Natur?
+
+echt gerade...
+
+なんだ、なんだ、あのまっすぐの線・・・。
+
+山に横線・・・。
+
+![20260813gerade-sonnegerade](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095855-e3451da2-me.jpg)
+
+立ち止まる。
+
+おっ、今日は水辺か。
+あの牛すごい・・・。
+ごくごく飲んで、膝まで水に浸かって・・・。
+
+自転車びゅーん！
+
+うん・・・、くも発見！！
+
+牛農家までついてきた。
+
+おぉ、小さい。
+
+![20260813minikumo](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921095916-6a329332-me.jpg)
+
+帰り道、気づくとくもはいなくなっていた。
