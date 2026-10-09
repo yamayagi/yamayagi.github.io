@@ -413,6 +413,12 @@ Kuckucksruf
 
 ![20260519marmuttier2](https://piwigo.schickl.de/i.php?/upload/2026/05/20/20260520135505-548cb652-me.jpg)
 
+Murmeltier
+
+vom andern Ufer
+
+Ruft es mich?
+
 
 
 # Rwoing note19
