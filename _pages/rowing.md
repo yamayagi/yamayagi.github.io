@@ -588,6 +588,12 @@ Phoenix!
 
 ![20260529geierwand-blumen](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601085019-459b158f-me.jpg)
 
+eine Blume
+
+im Wind
+
+so schön kühl...
+
 
 
 # Rowing note32
