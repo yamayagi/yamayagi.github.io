@@ -3308,3 +3308,20 @@ ein Specht!!
 いや、飛んでるだな。
 
 みんな、みんな、ありがとう・・・。
+
+# 140 Vor mir, neben mir, vor mir...
+
+Eine [Heuschrecke](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100613-0eca30cb-me.jp) vor mir.
+
+Obwohl ich näher komme, um einFoto zu machen, fliegt sie nicht weg...???
+
+Als ich losgehe, hüpft sie vor mir her, hüpfz und hüpft!
+
+Und ich Rad fahre...
+
+so viele Schmetterlinge, neben mir, vor mir, fahren mit mir zusammen.
+
+Nein, sie fliegen ja.
+
+Danke euch allen...
+
