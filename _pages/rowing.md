@@ -3297,7 +3297,7 @@ ein Specht!!
 
 しかも、写真撮ろうとして近づいても、飛んでいかない・・・？？？
 
-![Heuschrecke](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100613-0eca30cb-me.jpg)
+![20260814batta](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100613-0eca30cb-me.jpg)
 
 歩き始めると、前をぴょーん、ぴょーん！
 
@@ -3311,7 +3311,7 @@ ein Specht!!
 
 # 140 Vor mir, neben mir, vor mir...
 
-Eine [Heuschrecke](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100613-0eca30cb-me.jp) vor mir.
+Eine Heuschrecke vor mir.
 
 Obwohl ich näher komme, um einFoto zu machen, fliegt sie nicht weg...???
 
