@@ -3309,15 +3309,15 @@ ein Specht!!
 
 みんな、みんな、ありがとう・・・。
 
-# 140 Vor mir, neben mir, vor mir...
+Vor mir, neben mir, vor mir...
 
 Eine Heuschrecke vor mir.
 
-Obwohl ich näher komme, um einFoto zu machen, fliegt sie nicht weg...???
+Obwohl ich näher komme, um ein　Foto zu machen, fliegt sie nicht weg...???
 
-Als ich losgehe, hüpft sie vor mir her, hüpfz und hüpft!
+Als ich losgehe, hüpft sie vor mir her, hüpft und hüpft!
 
-Und ich Rad fahre...
+Und wenn ich Rad fahre...
 
 so viele Schmetterlinge, neben mir, vor mir, fahren mit mir zusammen.
 
