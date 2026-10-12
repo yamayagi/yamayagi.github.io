@@ -3297,7 +3297,7 @@ ein Specht!!
 
 しかも、写真撮ろうとして近づいても、飛んでいかない・・・？？？
 
-![20260814batta](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100613-0eca30cb-me.jpg)
+![Heuschrecke](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100613-0eca30cb-me.jpg)
 
 歩き始めると、前をぴょーん、ぴょーん！
 
