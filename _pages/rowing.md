@@ -3325,3 +3325,20 @@ Nein, sie fliegen ja.
 
 Danke euch allen...
 
+
+
+# 141 小さな、小さなかえるさん
+
+帰り道、小さな、小さなかえるさん。
+
+![20260814klein-kaeru](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100631-2bd91496-me.jpg)
+
+鳥に食べられませんように・・・。
+
+元気でねぇ・・・。
+
+Auf dem Heimweg, ein ganz ganz kleiner Frosch.
+
+Hoffentlich frisst ihn kein Vogel...
+
+Mach´s gut... 
