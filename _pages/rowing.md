@@ -3345,7 +3345,7 @@ Mach´s gut...
 
 
 
-# 142 うさぎさん
+# 142 うさぎさん "Frau Hase"
 
 優しいドイツ鉄道の車掌さん。
 
@@ -3354,4 +3354,14 @@ Mach´s gut...
 そして、帰ってきたところで、検札。
 
 優しい「うさぎさん」という名の女性の車掌さんだった。
+
+Eine freundliche Schaffnerin der Deutschen Bahn.
+
+Ich dachte, sie käme zur Fahrkartenkontrolle, und wurde unruhig.
+
+Aber als sie sah, dass ich gerade ein Eis aß, ging sie erst einmal weiter.
+
+Als sie zurückkam, kontrollierte sie meine Fahrkarte.
+
+Eine freundliche Schaffnerin names "Frau Hase".
 
