@@ -3342,3 +3342,16 @@ Auf dem Heimweg, ein ganz ganz kleiner Frosch.
 Hoffentlich frisst ihn kein Vogel...
 
 Mach´s gut... 
+
+
+
+# 142 うさぎさん
+
+優しいドイツ鉄道の車掌さん。
+
+検札・・・、かと思ってあわててたら、アイス食べてるのを見て、先に行った。
+
+そして、帰ってきたところで、検札。
+
+優しい「うさぎさん」という名の女性の車掌さんだった。
+
