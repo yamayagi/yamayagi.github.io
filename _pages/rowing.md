@@ -3365,3 +3365,36 @@ Als sie zurückkam, kontrollierte sie meine Fahrkarte.
 
 Eine freundliche Schaffnerin names "Frau Hase".
 
+
+
+# 143 誰の・・・？？？
+
+朝、牛乳を買いに自転車を走らせる。
+
+昨日の雨で、木の枝や石がいっぱい。
+
+石かと思って近づいた。
+
+うわぁー！
+
+こわい・・・。
+
+マキシミリアン、木の枝で拾って、持ってきた。
+
+おおぉっ！
+
+頭に苔が生えている。
+
+「誰の・・・？？？」
+
+「ヤギじゃない？」
+
+でも・・・。
+
+歯が、人間の歯みたいなんだけど・・・。
+
+気のせいか・・・。
+
+どうして、ここに・・・？？？
+
+![20260816kokenohaetayugaikotsu](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100727-9b55b6a9-me.jpg)
