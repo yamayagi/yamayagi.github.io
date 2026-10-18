@@ -3422,3 +3422,21 @@ Eine freundliche Schaffnerin names "Frau Hase".
 あぁ、だから・・・。
 
 みんな、朝ごはんもらえなくて、さけんでたんだ。
+
+
+
+# 145 太い！
+
+おぉ、花の背がこんなに高い！
+
+・・・と思ったら・・・。
+
+うわっ、茎が竹のように太い！！
+
+![20260817hana-kuki](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100817-108467b1-me.jpg)
+
+Oh, wie hoch die Blumen sind!
+
+... dachte ich ...
+
+Wow, der Stangel ist dick wie Bambus!!
