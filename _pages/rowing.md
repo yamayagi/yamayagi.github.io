@@ -3440,3 +3440,13 @@ Oh, wie hoch die Blumen sind!
 ... dachte ich ...
 
 Wow, der Stangel ist dick wie Bambus!!
+
+
+
+# 146 ざわざわ・・・
+
+風が吹き始めて、木の葉が、ひらひら、ざわざわ・・・。
+
+Der Wind kommt auf.
+
+Die Blätter flattern und rauschen...
