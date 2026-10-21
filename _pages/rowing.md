@@ -3520,7 +3520,7 @@ Die Blätter flattern und rauschen...
 
 
 
-# 子ども・・・
+# 148 子ども・・・
 
 朝飯前の岩登り。
 
