@@ -3581,3 +3581,23 @@ Die Blätter flattern und rauschen...
 近くで・・・。
 
 ![20260819kodomo-gemse](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100935-0cc4cdd4-me.jpg)
+
+
+
+# 149 白いくも
+
+あっ、白いくものこと思い出した！
+
+黒い自転車のハンドルに・・・。
+
+どうして、つるつるのハンドルから落ちないんだろう・・・？？？
+
+よーくみると・・・。
+
+糸が見えた！
+
+湧水のところで休んでいる間にいなくなった。
+
+どこに行ったんだろう・・・？
+
+![20261022siroi-kumo](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921100959-bd9d237b-me.jpg)
