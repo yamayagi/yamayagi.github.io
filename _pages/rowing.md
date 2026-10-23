@@ -3604,7 +3604,7 @@ Die Blätter flattern und rauschen...
 
 
 
-# 150 とうもろこし
+# 150 とうもろこし "Mais"
 
 朝、牛乳を買いに自転車を走らせる。
 
@@ -3631,3 +3631,9 @@ Die Blätter flattern und rauschen...
 のんびり、たらたら歩いて帰ってきた。
 
 ![20260820toumorokoshi](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101037-6915456a-me.jpg)
+
+Mais
+
+Gelb im Morgenlicht
+
+Augenblick!
