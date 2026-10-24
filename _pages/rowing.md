@@ -3667,3 +3667,5 @@ Augenblick!
 自分の手を壁にあてて、一緒に写真撮影。
 
 ![20260820mini-kokage](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101056-a2ca36fb-me.jpg)
+
+"Willkommem...!"
