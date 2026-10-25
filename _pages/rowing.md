@@ -3672,7 +3672,7 @@ Augenblick!
 
 
 
-# 152 雲の中
+# 152 雲の中 "In den Wolken"
 
 朝飯前の岩登り。
 
@@ -3704,3 +3704,31 @@ Augenblick!
 帰り道、ぽつっ・・・。
 
 はぁ、雨が降り始める前に帰ってくることができて、よかった、よかった・・・。
+
+Klettern vor dem Frühstück.
+
+In dem Wolken...
+
+Der Weg, auf dem ich zum Vogel werde.
+
+Normalerweise überlege ich wie ich fotografieren kann, ohne dass die Hochapnnungsleitungen aufs Bild kommen... Heute fotografiere ich einfach alles, so wie es ist.
+
+Ich gehe auf den Fels zu...
+
+Ach, guten Morgen.
+
+"🎵 Im weißen Licht ..."
+
+Hörst mir zu...???
+
+Eine Gämse bleibt stehen und hört mir zu.
+
+Am Fels...
+
+Oh, in den Wolken.
+
+Alles weiß...
+
+Auf dem Heimweg : Plopp...
+
+Puh, gut, dass wir es noch vor dem Regen nach Hause geschafft haben...
