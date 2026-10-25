@@ -3705,13 +3705,15 @@ Augenblick!
 
 はぁ、雨が降り始める前に帰ってくることができて、よかった、よかった・・・。
 
+・・・・・・
+
 Klettern vor dem Frühstück.
 
-In dem Wolken...
+In den Wolken...
 
 Der Weg, auf dem ich zum Vogel werde.
 
-Normalerweise überlege ich wie ich fotografieren kann, ohne dass die Hochapnnungsleitungen aufs Bild kommen... Heute fotografiere ich einfach alles, so wie es ist.
+Normalerweise überlege ich wie ich fotografieren kann, ohne dass die Hochspannungsleitungen aufs Bild kommen... Heute fotografiere ich einfach alles, so wie es ist.
 
 Ich gehe auf den Fels zu...
 
@@ -3719,7 +3721,7 @@ Ach, guten Morgen.
 
 "🎵 Im weißen Licht ..."
 
-Hörst mir zu...???
+Hörst du mir zu...???
 
 Eine Gämse bleibt stehen und hört mir zu.
 
@@ -3729,6 +3731,6 @@ Oh, in den Wolken.
 
 Alles weiß...
 
-Auf dem Heimweg : Plopp...
+Auf dem Heimweg: Plopp...
 
 Puh, gut, dass wir es noch vor dem Regen nach Hause geschafft haben...
