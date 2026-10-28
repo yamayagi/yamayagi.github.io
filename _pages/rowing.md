@@ -3737,7 +3737,7 @@ Puh, gut, dass wir es noch vor dem Regen nach Hause geschafft haben...
 
 
 
-# 153 雷鳥
+# 153 雷鳥 "Schneehuhn"
 
 バスに乗って、ロープーウェイに乗って、山に登った。
 
@@ -3776,3 +3776,39 @@ Puh, gut, dass wir es noch vor dem Regen nach Hause geschafft haben...
 湖の水の色が、とってもきれいだった。
 
 ![20260822raichyo](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101237-d39df794-me.jpg)
+
+Mit dem Bus, mit der Seilbahn und dann auf den Berg.
+
+Ich hatte es vergessen...
+
+Der Weg mit den großen Felsblöcken.
+
+Ich erinnerte mich an unsere Klettertour auf den Grundschartner(3065m).
+
+Ein Weg voller großer, loser Steine. Überall Steine. Meine Füße wackeln. Ich bin etwas alt geworden...
+
+Der Gipfel.
+
+Mitten in den Wolken.
+
+Mikro-Hagel?
+
+Mikro-Schnee...???
+
+Wenn es richtig zu schneiden anfängt, wird es gefährlich.
+
+Abstieg...
+
+Schneehühner!
+
+Foto, Foto...
+
+"Oh, wir dürfen die nicht stüren. Sanae, gehen wir"
+
+Entschuldigt, Schneehühner.
+
+Bei dieser kälte habe ich euch dazu gebracht, unnötig Energie zu verbrauchen.
+
+Es tut mir wirklich leid...
+
+Die Farbe des Sees war wunderschön.
