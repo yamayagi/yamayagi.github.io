@@ -3812,3 +3812,50 @@ Bei dieser kälte habe ich euch dazu gebracht, unnötig Energie zu verbrauchen.
 Es tut mir wirklich leid...
 
 Die Farbe des Sees war wunderschön.
+
+
+
+# 154 weiter
+
+朝、牛乳を買いに自転車を走らせる。
+
+今日は、いつもと違う道で・・・。
+ジグザグ、坂道、自転車引いて登る。
+
+日向の谷と日陰の谷・・・。
+
+![20260823sonne-schatten](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101315-c9b0430e-me.jpg)
+
+マキシミリアンの行きたかったところは・・・。
+自分もついでにトイレ。
+トイレの前で元気に走る３人組の女の子に出会った。
+
+途中で追い越した。
+
+牛乳農家の息子さんに、
+
+「おめでとう！　ヨナスって言うんだよね。」
+
+牛乳のお金を渡す。
+
+「macht so weiter！」
+
+また、３人組の女の子に出会った！
+笑顔で手を振ってくれた。
+自分も・・・、
+
+「３回目ね。」
+
+水辺のベンチで、太陽を待つ・・・。
+
+目を閉じる。
+
+![20260823bank-sonne](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101333-f2857e02-me.jpg)
+
+どんどん明るくなってきた。
+
+はぁ、あたたかい・・・。
+
+「geh ma weiter！」
+
+うん、いこう！
