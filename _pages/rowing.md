@@ -3862,7 +3862,7 @@ Die Farbe des Sees war wunderschön.
 
 
 
-# 155 羊
+# 155 羊 "Schaf"
 
 暑いので、滝の横のKlettersteigに行くことになった。
 
@@ -3917,3 +3917,79 @@ Die Farbe des Sees war wunderschön.
 歩き始めると、羊は、また、草を食べ始めた。
 
 ![20260823schaf](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101408-6c776360-me.jpg)
+
+Weil es so heiß war, beschlossen wir, einen Klettersteig neben Wasserfall zu machen.
+
+Mit dem Bus und dann zu Fuß...
+Ich dachte, wir wären gleich da.
+Aber wir waren fast eine Stunde unterwegs.
+
+Das erste Hängebrücke schwankte ganz schön.
+
+Vorsichtig, langsam, puh, puh...
+
+Es war nischt so schwierig, wie ich gedacht hatte.
+Wir brauchten nur etwa halb so lange wie auf dem Wegweiser angegeben, bis wir oberhalb des Wasserfalls ankamen.
+
+Die letzte Wuerung direkt am Wasserfall...
+Dort war bei einer Ausbildung der Alpinpolizei eine Polizistin abgestürzt.
+
+Ich schaute mir die Stelle an.
+Es sah machtbar aus.
+Also ging ich hinüber...
+
+Über dem tosenden Wasser...
+
+Auf dem Rückweg.
+
+klingelingeling...
+
+Eine Kuh?
+
+Ein Schaf?
+
+Ein Schaf!
+
+Ein großes, rundes, wolliges Schaf.
+
+Es schaute mich ganz ruhig an.
+
+Es schüttelte den Kopf und ließ seine Glocke klingeln.
+
+Ich machte es nach.
+
+Das Schaf schüttelte wieder den Kopf.
+
+Noch einmal.
+
+Das Schaf schüttelte den Kopf und stampfte mit dem Fuß auf!
+
+War es böse...???
+
+Entschuldigung...
+
+Tut mir leid, dass ich dich beim Essen gestört habe.
+
+Auf Wiedersehen.
+
+Als ich weiterging, fing das Schaf wieder an, Gras zu essen.
+
+
+
+# 156 赤い空
+
+朝、遠くの空・・・。
+
+赤の空と黒い雲。
+
+写真、写真・・・。
+
+生きてないから、いいよね？
+
+あれっ？
+
+空の色、雲の色、こくこくと変わる。
+
+生きてる・・・？？
+
+![20260824morgenrot](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101446-76c11970-me.jpg)
