@@ -3976,7 +3976,7 @@ Als ich weiterging, fing das Schaf wieder an, Gras zu essen.
 
 
 
-# 156 赤い空
+# 156 赤い空 "Roter Himmel"
 
 朝、遠くの空・・・。
 
@@ -3990,6 +3990,20 @@ Als ich weiterging, fing das Schaf wieder an, Gras zu essen.
 
 空の色、雲の色、こくこくと変わる。
 
-生きてる・・・？？
+生きてる・・・？？？
 
 ![20260824morgenrot](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101446-76c11970-me.jpg)
+
+Am Morgen, der Himmel in der Ferne...
+
+Ein roter Himmel und schwarze Wolken.
+
+Ein Foto, noch eins...
+
+Sie leben ja nicht, oder?
+
+Moment mal...
+
+Die Falben des Himmels, die Farben der Wolken verändern sich ständig.
+
+Sie leben...???
