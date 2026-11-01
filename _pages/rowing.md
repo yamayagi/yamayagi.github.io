@@ -4007,3 +4007,33 @@ Moment mal...
 Die Falben des Himmels, die Farben der Wolken verändern sich ständig.
 
 Sie leben...???
+
+
+
+# 157 あり・・・？！
+
+今日の運動、岩登り。
+
+ザイルでおりてきた。
+
+ぴぴぴぴぴっ！
+
+小さな鳥が木のかげに・・・。
+
+穴の中に何かある？
+
+水？？
+
+写真撮ってるのに、まだいる・・・。
+
+![20260824ari-vogel](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101544-06725f6f-me.jpg)
+
+何だろう・・・？
+
+帰り道。
+
+木を反対側から見たら・・・。
+
+ありだ！
+
+鳥は、ありを食べていた・・・？！
