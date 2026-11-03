@@ -4037,3 +4037,17 @@ Sie leben...???
 ありだ！
 
 鳥は、ありを食べていた・・・？！
+
+
+
+# 158 たまたま・・・
+
+![20260825gleischerspitze-tamatama](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101620-dd370c8c-me.jpg)
+
+「たまたまの　かわいい蕾（つぼみ）　雲の中・・・」
+
+Kugel kugel kugel
+
+süße Knospe
+
+in dem Wolken...
