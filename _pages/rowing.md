@@ -464,6 +464,11 @@ finde ich dich heraus
 
 ![20260521Kaunergradhütte](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084806-21d07f0c-me.jpg)
 
+frisch
+
+der Wind läuft
+
+am Wasser
 
 
 # Rowing note24
