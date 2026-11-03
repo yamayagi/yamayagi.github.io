@@ -477,6 +477,11 @@ am Wasser
 
 ![20251215kamome-ataka](https://piwigo.schickl.de/i.php?/upload/2026/05/25/20260525084942-6a9ac197-me.jpg)
 
+es geht
+
+ohne Kompass
+
+vielleicht weiter
 
 
 # Rowing note25
