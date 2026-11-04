@@ -4061,3 +4061,20 @@ Kugel kugel kugel
 süße Knospe
 
 in dem Wolken...
+
+
+
+# 159 秋の気配・・・？ 
+
+![20260826milchbauer](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101703-a6c9496d-me.jpg)
+
+「うしさんも　のどかな朝だ　秋の気配・・・？」
+
+![20260826urokogumo](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101708-f7a31cff-me.jpg)
+
+Die Kühe
+
+Ein gemütlicher Morgen
+
+Helbstgefühl...?
+
