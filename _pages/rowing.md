@@ -4078,3 +4078,16 @@ Ein gemütlicher Morgen
 
 Helbstgefühl...?
 
+
+
+# 160 北壁
+
+「また来れて　よかった北壁（きたかべ）　ありがとう！」
+
+![20260827hantenjoch-direkt-nordwand](https://piwigo.schickl.de/i.php?/upload/2026/09/21/20260921101748-ddbbdfcd-me.jpg)
+
+weiter hier sein
+
+wie schön, Nordwand
+
+Danke!
