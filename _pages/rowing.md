@@ -3934,18 +3934,18 @@ Mit dem Bus und dann zu Fuß...
 Ich dachte, wir wären gleich da.
 Aber wir waren fast eine Stunde unterwegs.
 
-Das erste Hängebrücke schwankte ganz schön.
+Die erste Hängebrücke schwankte ganz schön.
 
 Vorsichtig, langsam, puh, puh...
 
-Es war nischt so schwierig, wie ich gedacht hatte.
+Es war nicht so schwierig, wie ich gedacht hatte.
 Wir brauchten nur etwa halb so lange wie auf dem Wegweiser angegeben, bis wir oberhalb des Wasserfalls ankamen.
 
-Die letzte Wuerung direkt am Wasserfall...
+Die letzte Querung direkt am Wasserfall...
 Dort war bei einer Ausbildung der Alpinpolizei eine Polizistin abgestürzt.
 
 Ich schaute mir die Stelle an.
-Es sah machtbar aus.
+Es sah machbar aus.
 Also ging ich hinüber...
 
 Über dem tosenden Wasser...
