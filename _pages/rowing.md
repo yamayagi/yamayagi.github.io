@@ -443,6 +443,11 @@ Ruft es mich?
 
 ![20260519blaukringe](https://piwigo.schickl.de/i.php?/upload/2026/05/20/20260520135530-508cc0bf-me.jpg)
 
+Blau
+
+Die kleine Klingel
+
+leuchtet!
 
 
 # Rowing note22
@@ -517,6 +522,11 @@ Phoenix!
 
 「えっ、本当？　あの日の少年　「こんにちは！」」
 
+Wirklich?
+
+Der Junge von jenem Tag
+
+"Konnichiwa!"
 
 
 # Rowing note29
@@ -3161,7 +3171,7 @@ oh, wie schön...
 
 Besen gekauft.
 
-Ichreue mich über den Besen!
+Ich freue mich über den Besen!
 
 Ein Hexenbesen!!
 
