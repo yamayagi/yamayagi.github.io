@@ -899,6 +899,11 @@ Phoeniex、いなくなった・・・。
 
 「ゆっくりと　自分の足で　空洞の道」
 
+langsam
+
+auf eigenen Beinen
+
+durch den Hohlweg
 
 
 # 42 耳　ぴくぴく・・・
@@ -3154,7 +3159,7 @@ oh, wie schön...
 
 愉しい・・・。
 
-Beseb gekauft.
+Besen gekauft.
 
 Ichreue mich über den Besen!
 
