@@ -435,6 +435,11 @@ Ruft es mich?
 
 ![20251123wanderrudern-tubata](https://piwigo.schickl.de/i.php?/upload/2026/05/23/20260523152659-7593c1bf-me.jpg)
 
+Ein Wunder
+
+mit allen zusammen
+
+Als wäre ich dabei
 
 
 # Rowing note21
