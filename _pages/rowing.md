@@ -421,15 +421,20 @@ Ruft es mich?
 
 
 
-# Rwoing note19
+# 19 "Misato"
 
 「故郷（ふるさと）の　美しい里の　赤ちゃん生まれた？」
 
 ![20251215atakanohama-regenbogen](https://piwigo.schickl.de/i.php?/upload/2026/05/20/20260520135728-e1e8e1bc-me.jpg)
 
+Meine schöne Heimat
+
+Misato
+
+Ein Baby geboren?
 
 
-# Rowing note20
+# 20 "Ein Wunder"
 
 「ふしぎだな　みんなと一緒に　いるみたい」
 
