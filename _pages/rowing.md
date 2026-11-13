@@ -660,6 +660,11 @@ so schön kühl...
 
 ![20260531vogel-kuh](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601085148-b8a3f1b9-me.jpg)
 
+wie mutig
+
+wohin geht das Vögelchen
+
+so gelassen...
 
 
 # 34 「むり向けば 松の木みどり 安心したぁ・・・」
