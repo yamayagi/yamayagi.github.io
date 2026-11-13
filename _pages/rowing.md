@@ -604,6 +604,11 @@ Der Junge von jenem Tag
 
 ![20260527geistalklamm](https://piwigo.schickl.de/i.php?/upload/2026/06/01/20260601084928-58645e82-me.jpg)
 
+Ich öffne das Fenster
+
+höre die Stimmen der Vögel
+
+dehne mich
 
 
 # Rowing note31
