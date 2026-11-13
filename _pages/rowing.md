@@ -723,6 +723,11 @@ so schön kühl...
 
 ![20260602geierwand-kifer](https://piwigo.schickl.de/i.php?/upload/2026/06/09/20260609115419-96c19ee7-me.jpg)
 
+Dreh ich mich um
+
+Kiefernbaum Grün
+
+bin ich beruhigt...
 
 
 # 35 Phoenix
